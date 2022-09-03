@@ -48,6 +48,8 @@
   - https://github.com/westssun/querydsl
 * [한달한권｜이펙티브 자바 강의](https://zero-base.co.kr/category_dev_camp/selective_effectivejava)
   - https://github.com/westssun/effective_java
+* [Kevin의 알기 쉬운 RxJava 1부](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-1)
+  - https://github.com/westssun/rxjava_lecture
 
 ## 책
 * [Practical 모던 자바](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251222649)
@@ -400,3 +402,7 @@
 * [변환 연산자 (1)](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0503)
 * [변환 연산자 (2)](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0504)
 * [결합 연산자](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0505)
+* [에러 처리 연산자 + retry 연산자 추가 설명](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0506)
+* [유틸리티 연산자](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0507)
+* [조건과 불린 연산자](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0508)
+* [데이터 집계 연산자](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0509)
