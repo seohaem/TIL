@@ -388,6 +388,12 @@
 * [예제5_6_iterator_숨김_좋지않음](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_6_iterator_%EC%88%A8%EA%B9%80_%EC%A2%8B%EC%A7%80%EC%95%8A%EC%9D%8C)
 * [예제5_7_concurrentMap](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_7_concurrentMap)
 
+### 리팩토링
+* [냄새1. 이해하기 힘든 이름](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/Main.java)
+* [냄새1. 리팩토링 1. 함수 선언 변경하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_01_change_method_declaration)
+* [냄새1. 리팩토링 2. 변수 이름 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_02_rename_variable)
+* [냄새1. 리팩토링 3. 필드 이름 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_03_rename_field)
+
 ### RXJava
 * [리액티브(Reactive) 프로그래밍이란](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter01)
 * [마블 다이어그램 소개](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter01)
