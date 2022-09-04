@@ -389,14 +389,14 @@
 * [예제5_7_concurrentMap](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_7_concurrentMap)
 
 ### 리팩토링
-* [냄새1. 이해하기 힘든 이름](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/Main.java)
-* [냄새1. 리팩토링 1. 함수 선언 변경하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_01_change_method_declaration)
-* [냄새1. 리팩토링 2. 변수 이름 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_02_rename_variable)
-* [냄새1. 리팩토링 3. 필드 이름 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_03_rename_field)
-# [냄새2. 중복 코드](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_02_duplicated_code/Main.java)
-# [냄새2. 리팩토링 4. 함수 추출하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_02_duplicated_code/_04_extract_function)
-# [냄새2. 리팩토링 5. 코드 정리하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_02_duplicated_code/_05_slide_statements)
-# [냄새2. 리팩토링 6. 메서드 올리기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_02_duplicated_code/_06_pull_up_method)
+* [냄새 1. 이해하기 힘든 이름](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/Main.java)
+* [냄새 1. 리팩토링 1. 함수 선언 변경하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_01_change_method_declaration)
+* [냄새 1. 리팩토링 2. 변수 이름 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_02_rename_variable)
+* [냄새 1. 리팩토링 3. 필드 이름 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_03_rename_field)
+* [냄새 2. 중복 코드](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_02_duplicated_code/Main.java)
+* [냄새 2. 리팩토링 4. 함수 추출하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_02_duplicated_code/_04_extract_function)
+* [냄새 2. 리팩토링 5. 코드 정리하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_02_duplicated_code/_05_slide_statements)
+* [냄새 2. 리팩토링 6. 메서드 올리기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_02_duplicated_code/_06_pull_up_method)
 
 ### RXJava
 * [리액티브(Reactive) 프로그래밍이란](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter01)
