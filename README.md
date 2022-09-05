@@ -397,6 +397,9 @@
 * [냄새 2. 리팩토링 4. 함수 추출하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_02_duplicated_code/_04_extract_function)
 * [냄새 2. 리팩토링 5. 코드 정리하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_02_duplicated_code/_05_slide_statements)
 * [냄새 2. 리팩토링 6. 메서드 올리기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_02_duplicated_code/_06_pull_up_method)
+* [냄새 3. 긴 함수](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_03_long_function/Main.java)
+* [냄새 3. 리팩토링 7. 임시 변수를 질의 함수로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_07_replace_temp_with_query)
+* [냄새 3. 리팩토링 8. 매개변수 객체 만들기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_08_introdce_parameter_object)
 
 ### RXJava
 * [리액티브(Reactive) 프로그래밍이란](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter01)
@@ -416,3 +419,4 @@
 * [유틸리티 연산자](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0507)
 * [조건과 불린 연산자](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0508)
 * [데이터 집계 연산자](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0509)
+* [PublishSubject](https://github.com/westssun/rxjava-lecture-2/blob/master/rxjava-episode2/src/main/java/com/itvillage/section00/PublishSubjectExample.java)
