@@ -351,6 +351,20 @@
 * [그래프 이론 - 크루스칼](https://devfunny.tistory.com/660)
 * [그래프 이론 - 위상 정렬](https://devfunny.tistory.com/661)
 
+### 유형별 JAVA 알고리즘 문제풀이
+* [기본) 알고리즘 구현](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_00_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B5%AC%ED%98%84)
+* [01) 그리디 구현](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_01_%EA%B7%B8%EB%A6%AC%EB%94%94_%EA%B5%AC%ED%98%84)
+* [02) Stack](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_02_Stack)
+* [03) Queue](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_03_Queue/Dont)
+* [04) DFS](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_04_DFS)
+* [05) BFS](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_05_BFS)
+* [06) BinarySearch](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_06_BinarySearch)
+* [07) Dynamic Programming; DP](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_07_Dynamic_DP)
+* [08) 정렬](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_08_Sort)
+* [09) 다익스트라](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_09_dijkstra)
+* [10) 투포인터](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_10_%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0)
+* [11) 백트래킹](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_11_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
+
 ### JAVA 병렬프로그래밍
 * [예제2_1_상태없는_서블릿](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_1_%EC%83%81%ED%83%9C%EC%97%86%EB%8A%94_%EC%84%9C%EB%B8%94%EB%A6%BF)
 * [예제2_2_동기화_구문없이_요청횟수_세기](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_2_%EB%8F%99%EA%B8%B0%ED%99%94_%EA%B5%AC%EB%AC%B8%EC%97%86%EC%9D%B4_%EC%9A%94%EC%B2%AD%ED%9A%9F%EC%88%98_%EC%84%B8%EA%B8%B0)
@@ -420,17 +434,3 @@
 * [조건과 불린 연산자](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0508)
 * [데이터 집계 연산자](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0509)
 * [PublishSubject](https://github.com/westssun/rxjava-lecture-2/blob/master/rxjava-episode2/src/main/java/com/itvillage/section00/PublishSubjectExample.java)
-
-### 유형별 알고리즘 문제풀이
-* [기본) 알고리즘 구현](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_00_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B5%AC%ED%98%84)
-* [01) 그리디 구현](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_01_%EA%B7%B8%EB%A6%AC%EB%94%94_%EA%B5%AC%ED%98%84)
-* [02) Stack](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_02_Stack)
-* [03) Queue](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_03_Queue/Dont)
-* [04) DFS](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_04_DFS)
-* [05) BFS](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_05_BFS)
-* [06) BinarySearch](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_06_BinarySearch)
-* [07) Dynamic Programming; DP](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_07_Dynamic_DP)
-* [08) 정렬](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_08_Sort)
-* [09) 다익스트라](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_09_dijkstra)
-* [10) 투포인터](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_10_%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0)
-* [11) 백트래킹](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_11_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
