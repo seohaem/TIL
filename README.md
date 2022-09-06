@@ -414,6 +414,8 @@
 * [냄새 3. 긴 함수](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_03_long_function/Main.java)
 * [냄새 3. 리팩토링 7. 임시 변수를 질의 함수로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_07_replace_temp_with_query)
 * [냄새 3. 리팩토링 8. 매개변수 객체 만들기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_08_introdce_parameter_object)
+* [리팩토링 9. 객체 통째로 넘기기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_09_preserve_whole_object)
+* [리팩토링 10. 함수를 명령으로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_10_replace_function_with_command)
 
 ### RXJava
 * [리액티브(Reactive) 프로그래밍이란](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter01)
@@ -434,3 +436,8 @@
 * [조건과 불린 연산자](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0508)
 * [데이터 집계 연산자](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0509)
 * [PublishSubject](https://github.com/westssun/rxjava-lecture-2/blob/master/rxjava-episode2/src/main/java/com/itvillage/section00/PublishSubjectExample.java)
+* [AsyncSubject](https://github.com/westssun/rxjava-lecture-2/blob/master/rxjava-episode2/src/main/java/com/itvillage/section00/AsyncSubjectExample.java)
+* [BehaviorSubject](https://github.com/westssun/rxjava-lecture-2/blob/master/rxjava-episode2/src/main/java/com/itvillage/section00/BehaviorSubjectExample.java)
+* [ReplaySubject](https://github.com/westssun/rxjava-lecture-2/blob/master/rxjava-episode2/src/main/java/com/itvillage/section00/ReplaySubjectExample01.java)
+* [스케줄러 종류](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2/src/main/java/com/itvillage/section01)
+* [doOnXXX 메서드 정리](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2/src/main/java/com/itvillage/section02)
