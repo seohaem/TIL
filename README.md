@@ -414,8 +414,8 @@
 * [냄새 3. 긴 함수](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_03_long_function/Main.java)
 * [냄새 3. 리팩토링 7. 임시 변수를 질의 함수로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_07_replace_temp_with_query)
 * [냄새 3. 리팩토링 8. 매개변수 객체 만들기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_08_introdce_parameter_object)
-* [리팩토링 9. 객체 통째로 넘기기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_09_preserve_whole_object)
-* [리팩토링 10. 함수를 명령으로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_10_replace_function_with_command)
+* [냄새 3. 리팩토링 9. 객체 통째로 넘기기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_09_preserve_whole_object)
+* [냄새 3. 리팩토링 10. 함수를 명령으로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_10_replace_function_with_command)
 
 ### RXJava
 * [리액티브(Reactive) 프로그래밍이란](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter01)
