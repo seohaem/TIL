@@ -50,6 +50,8 @@
   - https://github.com/westssun/effective_java
 * [Kevin의 알기 쉬운 RxJava 1부](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-1)
   - https://github.com/westssun/rxjava_lecture
+* [Kevin의 알기 쉬운 RxJava 2부](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-2/dashboard)
+  - https://github.com/westssun/rxjava-lecture-2
 
 ## 책
 * [Practical 모던 자바](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251222649)
@@ -416,6 +418,9 @@
 * [냄새 3. 리팩토링 8. 매개변수 객체 만들기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_08_introdce_parameter_object)
 * [냄새 3. 리팩토링 9. 객체 통째로 넘기기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_09_preserve_whole_object)
 * [냄새 3. 리팩토링 10. 함수를 명령으로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_10_replace_function_with_command)
+* [냄새 3. 리팩토링 11. 조건문 분해하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_11_decompose_conditional)
+* [냄새 3. 리팩토링 12. 반복문 쪼개기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_12_split_loop)
+* [냄새 3. 리팩토링 13. 조건문을 다형성으로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_13_replace_conditional_with_polymorphism)
 
 ### RXJava
 * [리액티브(Reactive) 프로그래밍이란](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter01)
@@ -441,3 +446,8 @@
 * [ReplaySubject](https://github.com/westssun/rxjava-lecture-2/blob/master/rxjava-episode2/src/main/java/com/itvillage/section00/ReplaySubjectExample01.java)
 * [스케줄러 종류](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2/src/main/java/com/itvillage/section01)
 * [doOnXXX 메서드 정리](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2/src/main/java/com/itvillage/section02)
+* [blockingFirst, blockingLast, blockingSingle, blockingGet, blockingIterable, blockingForEach, blockingSubscribe](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2/src/test/java/com/itvillage/section03)
+* [assertXXXXX 함수를 이용한 테스트 검증(1)assertEmpty(), assertValue(), assertValues(), assertNoValues(), assertResult(), assertError(), assertComplete(), assertNotComplete()](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2/src/test/java/com/itvillage/section04/_1_assert)
+* [awaitXXXXX 함수를 이용한 테스트 방법 await(), awaitDone(), awaitCount() 그리고 isXXXX 함수를 이용한 테스트 isTerminated()](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2/src/test/java/com/itvillage/section04/_2_await)
+* [실습 프로젝트 - 서버](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2-practice)
+* [실습 프로젝트 - 클라이언트](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2-practice-client)
