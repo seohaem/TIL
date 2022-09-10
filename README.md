@@ -421,6 +421,10 @@
 * [냄새 3. 리팩토링 11. 조건문 분해하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_11_decompose_conditional)
 * [냄새 3. 리팩토링 12. 반복문 쪼개기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_12_split_loop)
 * [냄새 3. 리팩토링 13. 조건문을 다형성으로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_13_replace_conditional_with_polymorphism)
+* [냄새 4. 긴 매개변수 목록](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_04_long_parameter_list/Main.java)
+* [냄새 4. 리팩토링 14. 매개변수를 질의 함수로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_04_long_parameter_list/_14_replace_parameter_with_query)
+* [냄새 4. 리팩토링 15. 플래그 인수 제거하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_04_long_parameter_list/_15_remove_flag_argument)
+* [냄새 4. 리팩토링 16. 여러 함수를 클래스로 묶기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_04_long_parameter_list/_16_combine_functinos_into_class)
 
 ### RXJava
 * [리액티브(Reactive) 프로그래밍이란](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter01)
