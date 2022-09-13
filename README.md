@@ -425,6 +425,8 @@
 * [냄새 4. 리팩토링 14. 매개변수를 질의 함수로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_04_long_parameter_list/_14_replace_parameter_with_query)
 * [냄새 4. 리팩토링 15. 플래그 인수 제거하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_04_long_parameter_list/_15_remove_flag_argument)
 * [냄새 4. 리팩토링 16. 여러 함수를 클래스로 묶기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_04_long_parameter_list/_16_combine_functinos_into_class)
+* [냄새 5. 전역 데이터](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_05_global_data/Main.java)
+* [냄새 5. 리팩토링 17. 변수 캡슐화하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_05_global_data/_17_encapsulate_variable)
 
 ### RXJava
 * [리액티브(Reactive) 프로그래밍이란](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter01)
