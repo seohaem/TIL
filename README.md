@@ -110,6 +110,7 @@
 * [SpringBoot + Validation 프로젝트 설정 (커스텀 Annotation 적용 방법, DTO 필드에 constraints 어노테이션 적용, Validator 인터페이스 구현, constraints 어노테이션에 groups 속성 설정)](https://devfunny.tistory.com/866)
 * [테스트 코드(@Test) 실행 후 데이터 rollback 수행 관리 (rollback 수행하기, rollback 수행하지않기)](https://devfunny.tistory.com/721)
 * [Lombok Annotation 의 Delombok 코드 보기 (어노테이션을 사용함으로써 적용될 코드)](https://devfunny.tistory.com/520)
+* [Maven + MockMvc 환경에서 Rest API Docs 로 API 문서 생성하기](https://devfunny.tistory.com/868)
 
 ### SpringBatch
 * [1. Hello Spring Batch!](https://devfunny.tistory.com/754)
@@ -427,6 +428,9 @@
 * [냄새 4. 리팩토링 16. 여러 함수를 클래스로 묶기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_04_long_parameter_list/_16_combine_functinos_into_class)
 * [냄새 5. 전역 데이터](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_05_global_data/Main.java)
 * [냄새 5. 리팩토링 17. 변수 캡슐화하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_05_global_data/_17_encapsulate_variable)
+* [냄새 6. 가변 데이터](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_06_mutable_data)
+* [냄새 6. 리팩토링 18. 변수 쪼개기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_06_mutable_data/_18_split_variable)
+
 
 ### RXJava
 * [리액티브(Reactive) 프로그래밍이란](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter01)
