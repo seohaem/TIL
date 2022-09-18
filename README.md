@@ -52,6 +52,7 @@
   - https://github.com/westssun/rxjava_lecture
 * [Kevin의 알기 쉬운 RxJava 2부](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-2/dashboard)
   - https://github.com/westssun/rxjava-lecture-2
+* [그림으로 쉽게 배우는 운영체제](https://www.inflearn.com/course/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C#curriculum)
 
 ## 책
 * [Practical 모던 자바](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251222649)
@@ -428,8 +429,19 @@
 * [냄새 4. 리팩토링 16. 여러 함수를 클래스로 묶기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_04_long_parameter_list/_16_combine_functinos_into_class)
 * [냄새 5. 전역 데이터](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_05_global_data/Main.java)
 * [냄새 5. 리팩토링 17. 변수 캡슐화하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_05_global_data/_17_encapsulate_variable)
-* [냄새 6. 가변 데이터](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_06_mutable_data)
+* [냄새 6. 가변 데이터](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_06_mutable_data/Main.java)
 * [냄새 6. 리팩토링 18. 변수 쪼개기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_06_mutable_data/_18_split_variable)
+* [냄새 6. 리팩토링 19. 질의 함수와 변경 함수 분리하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_06_mutable_data/_19_separate_query_from_modifier)
+* [냄새 6. 리팩토링 20. 세터 제거하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_06_mutable_data/_20_remove_setting_method)
+* [냄새 6. 리팩토링 21. 파생 변수를 질의 함수로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_06_mutable_data/_21_replace_derived_variable_with_query)
+* [냄새 6. 리팩토링 22. 여러 함수를 변환 함수로 묶기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_06_mutable_data/_22_combine_functions_into_transform)
+* [냄새 6. 리팩토링 23. 참조를 값으로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_06_mutable_data/_23_change_reference_to_value)
+* [냄새 7. 냄새 7. 뒤엉킨 변경](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_07_divergent_change/Main.java)
+* [냄새 7. 리팩토링 24. 단계 쪼개기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_07_divergent_change/_24_split_phase)
+* [냄새 7. 리팩토링 25. 함수 옮기기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_07_divergent_change/_25_move_function)
+* [냄새 7. 리팩토링 26. 클래스 추출하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_07_divergent_change/_26_extract_class)
+* [냄새 7. 냄새 8. 산탄총 수술](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_08_shotgun_surgery/Main.java)
+* [냄새 7. 리팩토링 27. 필드 옮기기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_08_shotgun_surgery/_27_move_field)
 
 
 ### RXJava
@@ -461,3 +473,11 @@
 * [awaitXXXXX 함수를 이용한 테스트 방법 await(), awaitDone(), awaitCount() 그리고 isXXXX 함수를 이용한 테스트 isTerminated()](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2/src/test/java/com/itvillage/section04/_2_await)
 * [실습 프로젝트 - 서버](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2-practice)
 * [실습 프로젝트 - 클라이언트](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2-practice-client)
+
+### Domain Driven Design
+* [[ddd] 아키텍처 구조 연습 (package struct)](https://github.com/westssun/ddd-practice-package-project)
+* [[Domain Driven Design] 1. 도메인이란?](https://devfunny.tistory.com/869)
+* [[Domain Driven Design] 2. 도메인 모델](https://devfunny.tistory.com/870)
+* [[Domain Driven Design] 3. 엔티티와 밸류](https://devfunny.tistory.com/871)
+* [[Domain Driven Design] 4. 계층 구조 아키텍처 (표현, 응용, 도메인, 인프라스트럭처)](https://devfunny.tistory.com/872)
+* [[Domain Driven Design] 5. DIP(Dependency Inversion Principle, 의존 역전 원칙)](https://devfunny.tistory.com/873)
