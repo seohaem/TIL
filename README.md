@@ -1,6 +1,9 @@
 # Today I Learned(TIL) Wiki
 [![Blog](https://img.shields.io/badge/Blog-https://devfunny.tistory.com/-green.svg)](https://devfunny.tistory.com/)
 
+## 사이드 프로젝트
+* [Expedia](https://github.com/cIonecoder)
+
 ## 강의
 * [코딩으로 학습하는 GoF의 디자인 패턴](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
   - https://github.com/westssun/java_GoFdesignpattern
