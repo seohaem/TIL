@@ -115,6 +115,7 @@
 
 ### Spring
 * [스프링부트 공통 Exception 처리하기](https://devfunny.tistory.com/318)
+* [SpringBoot에 Http Client Feign 적용해보기](https://devfunny.tistory.com/312)
 * [AWS ec2에 jenkins 설치하기 (+jdk1.7 삭제 후 openjdk11 설치)](https://devfunny.tistory.com/302)
 * [SpringBoot + SpringSecurity 프로젝트에 Swagger 3.0 적용하기](https://devfunny.tistory.com/692)
 * [SpringBoot + Validation 프로젝트 설정 (커스텀 Annotation 적용 방법, DTO 필드에 constraints 어노테이션 적용, Validator 인터페이스 구현, constraints 어노테이션에 groups 속성 설정)](https://devfunny.tistory.com/866)
