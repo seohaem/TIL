@@ -121,6 +121,7 @@
 * [테스트 코드(@Test) 실행 후 데이터 rollback 수행 관리 (rollback 수행하기, rollback 수행하지않기)](https://devfunny.tistory.com/721)
 * [Lombok Annotation 의 Delombok 코드 보기 (어노테이션을 사용함으로써 적용될 코드)](https://devfunny.tistory.com/520)
 * [Maven + MockMvc 환경에서 Spring Rest Docs 설정하기](https://devfunny.tistory.com/868)
+* [[ddd] 아키텍처 구조 연습 (package struct)](https://github.com/westssun/ddd-practice-package-project)
 
 ### SpringBatch
 * [1. Hello Spring Batch!](https://devfunny.tistory.com/754)
