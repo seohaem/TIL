@@ -110,6 +110,8 @@
 * [[JAVA8 병렬프로그래밍] 원자적 변수 atomic](https://devfunny.tistory.com/812)
 * [ThreadLocal](https://devfunny.tistory.com/812)
 * [Volatile 변수](https://devfunny.tistory.com/841)
+* [JAVA Generic](https://github.com/westssun/toby-follow/tree/master/toby-generic)
+* [IntersectionType](https://github.com/westssun/toby-follow/tree/master/intersectionType)
 
 ### Spring
 * [스프링부트 공통 Exception 처리하기](https://devfunny.tistory.com/318)
