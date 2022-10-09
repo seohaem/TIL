@@ -60,6 +60,8 @@
   - https://github.com/westssun/java-refactoring
 * [토비의 봄 TV - 스프링 리액티브 프로그래밍](https://www.youtube.com/watch?v=8fenTR3KOJo&list=PLv-xDnFD-nnmof-yoZQN8Fs2kVljIuFyC&index=10)
   - https://github.com/westssun/toby-reactive
+* [자바 개발자를 위한 코틀린 입문(Java to Kotlin Starter Guide)](https://www.inflearn.com/course/java-to-kotlin)
+  - https://github.com/westssun/kotlin-step1
 
 ## 책
 * [Practical 모던 자바](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251222649)
@@ -332,9 +334,26 @@
 * [24. 지연 계산(lazy) 컬렉션 연산 - 시퀀스(sequence) 사용](https://devfunny.tistory.com/804)
 * [25. SAM 생성자](https://devfunny.tistory.com/819)
 * [26. 수신 객체 지정 람다 (with, apply)](https://devfunny.tistory.com/820)
-* [[kotlin-step1] 1_코틀린에서_변수를_다루는_방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_1_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%B3%80%EC%88%98%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 2_코틀린에서_null을_다루는_방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_2_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_null%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 3_코틀린에서_Type을_다루는_방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_3_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_Type%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 1강. 코틀린에서 변수를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_1_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%B3%80%EC%88%98%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 2강. 코틀린에서 null을 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_2_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_null%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 3강. 코틀린에서 Type을 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_3_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_Type%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 4강. 코틀린에서 연산자를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_4_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%97%B0%EC%82%B0%EC%9E%90%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 5강. 코틀린에서 제어문을 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_5_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%A0%9C%EC%96%B4%EB%AC%B8%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 6강. 코틀린에서 반복문을 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_6_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 7강. 코틀린에서 예외를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_7_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%98%88%EC%99%B8%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 8강. 코틀린에서 함수를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_8_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%ED%95%A8%EC%88%98%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 9강. 코틀린에서 클래스를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_9_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 10강. 코틀린에서 상속을 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_10_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%83%81%EC%86%8D%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 11강. 코틀린에서 접근제어를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_11_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 12강. 코틀린에서 object 키워드를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_12_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_object%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 13강. 코틀린에서 중첩클래스 키워드를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_13_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%A4%91%EC%B2%A9%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 14강. 코틀린에서 다양한 클래스를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_14_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%8B%A4%EC%96%91%ED%95%9C_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 15강. 코틀린에서 배열과 컬렉션을 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_15_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%B0%B0%EC%97%B4%EA%B3%BC_%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 16강. 코틀린에서 다양한 함수를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_16_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%8B%A4%EC%96%91%ED%95%9C_%ED%95%A8%EC%88%98%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 17강. 코틀린에서 람다를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_17_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%9E%8C%EB%8B%A4%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 18강. 코틀린에서 컬렉션을 함수형으로 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_18_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%84_%ED%95%A8%EC%88%98%EB%A1%9C_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 19강. 코틀린의 이모저모](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_19_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98_%EC%9D%B4%EB%AA%A8%EC%A0%80%EB%AA%A8)
+* [[kotlin-step1] 20강. 코틀린의 scope function](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_20_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98_scope_function)
 
 ### Database
 * [DB Lock](https://devfunny.tistory.com/668)
@@ -532,6 +551,9 @@
 * [[Spring Reactive Programming] 2. Reactive Streams - Operators (sum, reduce, Generic으로 구현)](https://devfunny.tistory.com/877)
 * [[Spring Reactive Programming] 3. Reactive Streams - Publisher, Subscriber 별도 스레드로 수행시키기](https://devfunny.tistory.com/878)
 * [[Spring Reactive Programming] 4. Reactive Streams - 자바와 스프링의 비동기 개발 기술 (Runnable, Callable, Future, FutureTask, DeferredResult, Emitter)](https://devfunny.tistory.com/879)
+* [[Spring Reactive Programming] 5. Reactive Streams - CompletableFuture](https://devfunny.tistory.com/881)
+* [[Spring Reactive Programming] 6. Reactive Streams - Mono 예제 맛보기](https://devfunny.tistory.com/882)
+* [[Spring Reactive Programming] 7. Reactive Streams - Flux 예제 맛보기](https://devfunny.tistory.com/883)
 
 ### Domain Driven Design
 * [[ddd] 아키텍처 구조 연습 (package struct)](https://github.com/westssun/ddd-practice-package-project)
@@ -543,3 +565,5 @@
 * [[Domain Driven Design] 6. 도메인 영역의 구성요소 (엔티티, 밸류, 애그리거트, 리포지토리)](https://devfunny.tistory.com/874)
 * [[Domain Driven Design] 7. 응용 서비스, 인프라스트럭처 개요, 모듈 구조](https://devfunny.tistory.com/875)
 * [[Domain Driven Design] 8. 애그리거트 (Aggregate)](https://devfunny.tistory.com/880)
+* [[Domain Driven Design] 9. 애그리거트 루트 (Aggregate Root)](https://devfunny.tistory.com/884)
+* [[Domain Driven Design] 10. 리포지토리와 애그리거트, 애그리거트 간의 참조 관계](https://devfunny.tistory.com/885)
