@@ -62,6 +62,8 @@
   - https://github.com/westssun/toby-reactive
 * [자바 개발자를 위한 코틀린 입문(Java to Kotlin Starter Guide)](https://www.inflearn.com/course/java-to-kotlin)
   - https://github.com/westssun/kotlin-step1
+* [스프링5 웹플럭스와 테스트 전략](https://tv.kakao.com/channel/3150758/cliplink/391418995)
+  - https://devfunny.tistory.com/887
 
 ## 책
 * [Practical 모던 자바](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251222649)
@@ -567,3 +569,4 @@
 * [[Domain Driven Design] 8. 애그리거트 (Aggregate)](https://devfunny.tistory.com/880)
 * [[Domain Driven Design] 9. 애그리거트 루트 (Aggregate Root)](https://devfunny.tistory.com/884)
 * [[Domain Driven Design] 10. 리포지토리와 애그리거트, 애그리거트 간의 참조 관계](https://devfunny.tistory.com/885)
+* [[Domain Driven Design] 11. 애그리거트 간 집합 연관, 애그리거트의 팩토리 역할](https://devfunny.tistory.com/886)
