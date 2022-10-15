@@ -67,7 +67,7 @@
 * [[25] 실전! 코틀린과 스프링 부트로 도서관리 애플리케이션 개발하기 (Java 프로젝트 리팩토링)](https://www.inflearn.com/course/java-to-kotlin-2#curriculum)
   - https://github.com/seohaem/kotlin-step2
 
-## 책
+## BOOK
 * [[1] Practical 모던 자바](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251222649)
   - https://github.com/westssun/practicalJava8
 * [[2] 모던 자바 인 액션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=200069290)
