@@ -68,18 +68,22 @@
   - https://github.com/seohaem/kotlin-step2
 
 ## 책
-* [Practical 모던 자바](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251222649)
+* [[1] Practical 모던 자바](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251222649)
   - https://github.com/westssun/practicalJava8
-* [모던 자바 인 액션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=200069290)
+* [[2] 모던 자바 인 액션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=200069290)
   - https://github.com/westssun/moderninjava8
-* [자바 ORM 표준 JPA 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=62681446&start=slayer)
+* [[3] 자바 ORM 표준 JPA 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=62681446&start=slayer)
   - https://github.com/westssun/jpa_book
-* [아파치 카프카 애플리케이션 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=268985828)
+* [[4] 아파치 카프카 애플리케이션 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=268985828)
   - https://github.com/westssun/kafka-project
-* [카프카, 데이터 플랫폼의 최강자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=142100738)
-* [이것이 코딩테스트다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247882118)
-* [이펙티브 자바](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410)
+* [[5] 카프카, 데이터 플랫폼의 최강자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=142100738)
+* [[6] 이것이 코딩테스트다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247882118)
+* [[7] 이펙티브 자바](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410)
   - https://github.com/westssun/effective_java
+* [[8] 도메인 주도 개발 시작하기 - DDD 핵심 개념 정리부터 구현까지](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=291420687)
+  - https://github.com/seohaem/DDD
+* [[9] 스프링 부트 실전 활용 마스터](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=271824446&start=slayer)
+  - https://github.com/seohaem/webflux-project
 
 ## Study
 
