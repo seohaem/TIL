@@ -5,66 +5,66 @@
 * [Expedia](https://github.com/cIonecoder)
 
 ## 강의
-* [코딩으로 학습하는 GoF의 디자인 패턴](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
+* [[1] 코딩으로 학습하는 GoF의 디자인 패턴](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
   - https://github.com/westssun/java_GoFdesignpattern
-* [Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
+* [[2] Sping Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
   - https://github.com/westssun/msa_userMicroservice
-* [스프링과 JPA 기반 웹 애플리케이션 개발](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-JPA-%EC%9B%B9%EC%95%B1)
+* [[3] 스프링과 JPA 기반 웹 애플리케이션 개발](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-JPA-%EC%9B%B9%EC%95%B1)
   - https://github.com/westssun/studyolle_jpa
   - https://github.com/westssun/jpa-spring-web-project
-* [한번에 끝내는 Java/Spring 웹 개발 마스터 초격차 패키지 Online. 중 SpringBatch](https://fastcampus.co.kr/dev_online_javaend)
+* [[4] 한번에 끝내는 Java/Spring 웹 개발 마스터 초격차 패키지 Online. 중 SpringBatch](https://fastcampus.co.kr/dev_online_javaend)
   - https://github.com/westssun/springbatch-fastcampus
   - https://github.com/westssun/springbatch-memberProject
   - https://github.com/westssun/springbatch-orderamount
   - https://github.com/westssun/springbatch-app-service
-* [스프링 핵심 원리 - 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
+* [[5] 스프링 핵심 원리 - 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
   - https://github.com/westssun/spring_core_basic
-* [스프링 핵심 원리 - 고급편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8)
+* [[6] 스프링 핵심 원리 - 고급편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8)
   - https://github.com/westssun/spring-advanced-log/
   - https://github.com/westssun/springboot-aop
-* [한번에 끝내는 Java/Spring 웹 개발 마스터 초격차 패키지 Online. 중 JPA](https://fastcampus.co.kr/dev_online_javaend)
+* [[7] 한번에 끝내는 Java/Spring 웹 개발 마스터 초격차 패키지 Online. 중 JPA](https://fastcampus.co.kr/dev_online_javaend)
   - https://github.com/westssun/fastcampus-jpa-project
-* [한번에 끝내는 Java/Spring 웹 개발 마스터 초격차 패키지 Online. 중 SpringSecurity](https://fastcampus.co.kr/dev_online_javaend)
+* [[8] 한번에 끝내는 Java/Spring 웹 개발 마스터 초격차 패키지 Online. 중 SpringSecurity](https://fastcampus.co.kr/dev_online_javaend)
   - https://github.com/westssun/fastcampus-springsecurity
-* [스프링부트 시큐리티 & JWT 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0)
+* [[9] 스프링부트 시큐리티 & JWT 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0)
   - https://github.com/westssun/security_login_basic_thymeleaf
   - https://github.com/westssun/security-jwt-token-login-test
   - https://github.com/westssun/security_oauth2_sns_login
-* [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic)
+* [[10] 자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic)
   - https://github.com/westssun/jpa_study
-* [실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1)
+* [[11] 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1)
   - https://github.com/westssun/springboot-jpa
-* [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1)
+* [[12] 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1)
   - https://github.com/westssun/mvc_servlet
   - https://github.com/westssun/springmvc
-* [스프링 배치 - Spring Boot 기반으로 개발하는 Spring Batch](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98)
+* [[13] 스프링 배치 - Spring Boot 기반으로 개발하는 Spring Batch](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98)
   - https://github.com/westssun/spring-batch-start
   - https://github.com/westssun/springbatch_test
-* [스프링 시큐리티 - Spring Boot 기반으로 개발하는 Spring Security](https://www.inflearn.com/course/%EC%BD%94%EC%96%B4-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0)
+* [[14] 스프링 시큐리티 - Spring Boot 기반으로 개발하는 Spring Security](https://www.inflearn.com/course/%EC%BD%94%EC%96%B4-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0)
   - https://github.com/westssun/core-spring-security-1
   - https://github.com/westssun/core-spring-security-2
   - https://github.com/westssun/core-spring-security-3
-* [스프링 DB 2편 - 데이터 접근 활용 기술(2)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-2)
+* [[15] 스프링 DB 2편 - 데이터 접근 활용 기술(2)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-2)
   - https://github.com/westssun/itemservice-db
   - https://github.com/westssun/springtx
-* [실전! Querydsl](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84)
+* [[16] 실전! Querydsl](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84)
   - https://github.com/westssun/querydsl
-* [한달한권｜이펙티브 자바 강의](https://zero-base.co.kr/category_dev_camp/selective_effectivejava)
+* [[17] 한달한권｜이펙티브 자바 강의](https://zero-base.co.kr/category_dev_camp/selective_effectivejava)
   - https://github.com/westssun/effective_java
-* [Kevin의 알기 쉬운 RxJava 1부](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-1)
+* [[18] Kevin의 알기 쉬운 RxJava 1부](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-1)
   - https://github.com/westssun/rxjava_lecture
-* [Kevin의 알기 쉬운 RxJava 2부](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-2/dashboard)
+* [[19] Kevin의 알기 쉬운 RxJava 2부](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-2/dashboard)
   - https://github.com/westssun/rxjava-lecture-2
-* [그림으로 쉽게 배우는 운영체제](https://www.inflearn.com/course/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C#curriculum)
-* [코딩으로 학습하는 리팩토링](https://www.inflearn.com/course/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81)
+* [[20] 그림으로 쉽게 배우는 운영체제](https://www.inflearn.com/course/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C#curriculum)
+* [[21] 코딩으로 학습하는 리팩토링](https://www.inflearn.com/course/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81)
   - https://github.com/westssun/java-refactoring
-* [토비의 봄 TV - 스프링 리액티브 프로그래밍](https://www.youtube.com/watch?v=8fenTR3KOJo&list=PLv-xDnFD-nnmof-yoZQN8Fs2kVljIuFyC&index=10)
+* [[22] 토비의 봄 TV - 스프링 리액티브 프로그래밍](https://www.youtube.com/watch?v=8fenTR3KOJo&list=PLv-xDnFD-nnmof-yoZQN8Fs2kVljIuFyC&index=10)
   - https://github.com/westssun/toby-reactive
-* [자바 개발자를 위한 코틀린 입문(Java to Kotlin Starter Guide)](https://www.inflearn.com/course/java-to-kotlin)
+* [[23] 자바 개발자를 위한 코틀린 입문(Java to Kotlin Starter Guide)](https://www.inflearn.com/course/java-to-kotlin)
   - https://github.com/westssun/kotlin-step1
-* [스프링5 웹플럭스와 테스트 전략](https://tv.kakao.com/channel/3150758/cliplink/391418995)
+* [[24] 스프링5 웹플럭스와 테스트 전략](https://tv.kakao.com/channel/3150758/cliplink/391418995)
   - https://devfunny.tistory.com/887
-* [실전! 코틀린과 스프링 부트로 도서관리 애플리케이션 개발하기 (Java 프로젝트 리팩토링)](https://www.inflearn.com/course/java-to-kotlin-2#curriculum)
+* [[25] 실전! 코틀린과 스프링 부트로 도서관리 애플리케이션 개발하기 (Java 프로젝트 리팩토링)](https://www.inflearn.com/course/java-to-kotlin-2#curriculum)
   - https://github.com/seohaem/kotlin-step2
 
 ## 책
