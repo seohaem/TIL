@@ -64,6 +64,8 @@
   - https://github.com/westssun/kotlin-step1
 * [스프링5 웹플럭스와 테스트 전략](https://tv.kakao.com/channel/3150758/cliplink/391418995)
   - https://devfunny.tistory.com/887
+* [실전! 코틀린과 스프링 부트로 도서관리 애플리케이션 개발하기 (Java 프로젝트 리팩토링)](https://www.inflearn.com/course/java-to-kotlin-2#curriculum)
+  - https://github.com/seohaem/kotlin-step2
 
 ## 책
 * [Practical 모던 자바](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251222649)
@@ -356,6 +358,7 @@
 * [[kotlin-step1] 18강. 코틀린에서 컬렉션을 함수형으로 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_18_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%84_%ED%95%A8%EC%88%98%EB%A1%9C_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
 * [[kotlin-step1] 19강. 코틀린의 이모저모](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_19_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98_%EC%9D%B4%EB%AA%A8%EC%A0%80%EB%AA%A8)
 * [[kotlin-step1] 20강. 코틀린의 scope function](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_20_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98_scope_function)
+* [[kotlin-step2] JAVA 프로젝트를 Kotlin 프로젝트로 리팩토링](https://github.com/seohaem/kotlin-step2)
 
 ### Database
 * [DB Lock](https://devfunny.tistory.com/668)
