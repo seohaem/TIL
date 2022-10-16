@@ -66,7 +66,9 @@
   - https://devfunny.tistory.com/887
 * [[25] 실전! 코틀린과 스프링 부트로 도서관리 애플리케이션 개발하기 (Java 프로젝트 리팩토링)](https://www.inflearn.com/course/java-to-kotlin-2#curriculum)
   - https://github.com/seohaem/kotlin-step2
-
+* [[26] 재고시스템으로 알아보는 동시성이슈 해결방법](https://www.inflearn.com/course/%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%B4%EC%8A%88-%EC%9E%AC%EA%B3%A0%EC%8B%9C%EC%8A%A4%ED%85%9C)
+  - https://github.com/seohaem/concurrency-stock-project
+  
 ## BOOK
 * [[1] Practical 모던 자바](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251222649)
   - https://github.com/westssun/practicalJava8
