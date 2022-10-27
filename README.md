@@ -567,7 +567,7 @@
 * [[Spring Reactive Programming] 6. Reactive Streams - Mono 예제 맛보기](https://devfunny.tistory.com/882)
 * [[Spring Reactive Programming] 7. Reactive Streams - Flux 예제 맛보기](https://devfunny.tistory.com/883)
 * [if(kakao) dev 2018 - 스프링5 웹플럭스와 테스트 전략](https://devfunny.tistory.com/887)
-* [CompletableFuture](https://github.com/seohaem/async-project/blob/main/future/src/main/java/com/example/future/interfaces/CompletableFutureController.java)
+* [CompletableFuture 예제](https://github.com/seohaem/async-project/blob/main/future/src/main/java/com/example/future/interfaces/CompletableFutureController.java)
 
 ### Domain Driven Design
 * [[ddd] 아키텍처 구조 연습 (package struct)](https://github.com/westssun/ddd-practice-package-project)
