@@ -366,6 +366,7 @@
 * [[kotlin-step1] 20강. 코틀린의 scope function](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_20_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98_scope_function)
 * [[kotlin-step2] Java 프로젝트를 Kotlin 프로젝트로 리팩토링](https://github.com/seohaem/kotlin-step2/tree/master/kotlin-app)
 * [[kotlin-step2] kotlin 리팩토링 프로젝트에 총 4개의 기능 추가](https://github.com/seohaem/kotlin-step2/tree/master/kotlin-app_v2))
+* [[Kotlin 기초문법] 총정리](https://devfunny.tistory.com/889)
 
 ### Database
 * [DB Lock](https://devfunny.tistory.com/668)
@@ -414,7 +415,7 @@
 * [10) 투포인터](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_10_%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0)
 * [11) 백트래킹](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_11_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
 
-### JAVA 병렬프로그래밍
+### 비동기 프로그래밍
 * [예제2_1_상태없는_서블릿](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_1_%EC%83%81%ED%83%9C%EC%97%86%EB%8A%94_%EC%84%9C%EB%B8%94%EB%A6%BF)
 * [예제2_2_동기화_구문없이_요청횟수_세기](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_2_%EB%8F%99%EA%B8%B0%ED%99%94_%EA%B5%AC%EB%AC%B8%EC%97%86%EC%9D%B4_%EC%9A%94%EC%B2%AD%ED%9A%9F%EC%88%98_%EC%84%B8%EA%B8%B0)
 * [예제2_3_늦은초기화_경쟁조건](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_3_%EB%8A%A6%EC%9D%80%EC%B4%88%EA%B8%B0%ED%99%94_%EA%B2%BD%EC%9F%81%EC%A1%B0%EA%B1%B4)
@@ -450,6 +451,7 @@
 * [예제5_2_클라이언트락_동기화](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_2_%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EB%9D%BD_%EB%8F%99%EA%B8%B0%ED%99%94)
 * [예제5_6_iterator_숨김_좋지않음](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_6_iterator_%EC%88%A8%EA%B9%80_%EC%A2%8B%EC%A7%80%EC%95%8A%EC%9D%8C)
 * [예제5_7_concurrentMap](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_7_concurrentMap)
+* [SpringBoot 재고 감소 동시성 제어 - Redisson 사용 (+ AOP 적용)](https://devfunny.tistory.com/888)
 
 ### 리팩토링
 * [냄새 1. 이해하기 힘든 이름](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_%EB%83%84%EC%83%881_%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0_%ED%9E%98%EB%93%A0%EC%9D%B4%EB%A6%84.md)
