@@ -124,6 +124,9 @@
 * [Volatile 변수](https://devfunny.tistory.com/841)
 * [JAVA Generic](https://github.com/westssun/toby-follow/tree/master/toby-generic)
 * [IntersectionType](https://github.com/westssun/toby-follow/tree/master/intersectionType)
+* [JAVA 멀티쓰레드: 들어가며](https://github.com/seohaem/concurrency_lecture1/tree/main/src/main/java/org/example/chap01_introduction/_step01_serial)
+* [JAVA 멀티쓰레드: 멀티쓰레드 예제](https://github.com/seohaem/concurrency_lecture1/tree/main/src/main/java/org/example/chap02_multiThread)
+* [JAVA 멀티쓰레드: 동시성 제어](https://github.com/seohaem/concurrency_lecture1/tree/main/src/main/java/org/example/chap03_concurrency)
 
 ### Spring
 * [스프링부트 공통 Exception 처리하기](https://devfunny.tistory.com/318)
@@ -135,6 +138,7 @@
 * [Lombok Annotation 의 Delombok 코드 보기 (어노테이션을 사용함으로써 적용될 코드)](https://devfunny.tistory.com/520)
 * [Maven + MockMvc 환경에서 Spring Rest Docs 설정하기](https://devfunny.tistory.com/868)
 * [[ddd] 아키텍처 구조 연습 (package struct)](https://github.com/westssun/ddd-practice-package-project)
+* [Maven to Gradle Project 셋팅 변경](https://devfunny.tistory.com/892)
 
 ### SpringBatch
 * [1. Hello Spring Batch!](https://devfunny.tistory.com/754)
