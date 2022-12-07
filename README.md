@@ -139,6 +139,7 @@
 * [Maven + MockMvc 환경에서 Spring Rest Docs 설정하기](https://devfunny.tistory.com/868)
 * [[ddd] 아키텍처 구조 연습 (package struct)](https://github.com/westssun/ddd-practice-package-project)
 * [Maven to Gradle Project 셋팅 변경](https://devfunny.tistory.com/892)
+* [Spring + Mybatis 활용 원리](https://devfunny.tistory.com/895)
 
 ### SpringBatch
 * [1. Hello Spring Batch!](https://devfunny.tistory.com/754)
