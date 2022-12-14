@@ -6,86 +6,86 @@
 
 ## 강의
 * [[1] 코딩으로 학습하는 GoF의 디자인 패턴](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
-  - https://github.com/westssun/java_GoFdesignpattern
+  - https://github.com/seohaem/java/tree/master/java_GoFdesignpattern
 * [[2] Sping Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
-  - https://github.com/westssun/msa_userMicroservice
+  - https://github.com/seohaem/msa/tree/master/msa_userMicroservice
 * [[3] 스프링과 JPA 기반 웹 애플리케이션 개발](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-JPA-%EC%9B%B9%EC%95%B1)
-  - https://github.com/westssun/studyolle_jpa
-  - https://github.com/westssun/jpa-spring-web-project
+  - https://github.com/seohaem/jpa/tree/master/studyolle_jpa
+  - https://github.com/seohaem/jpa/tree/master/jpa-spring-web-project
 * [[4] 한번에 끝내는 Java/Spring 웹 개발 마스터 초격차 패키지 Online. 중 SpringBatch](https://fastcampus.co.kr/dev_online_javaend)
-  - https://github.com/westssun/springbatch-fastcampus
-  - https://github.com/westssun/springbatch-memberProject
-  - https://github.com/westssun/springbatch-orderamount
-  - https://github.com/westssun/springbatch-app-service
+  - https://github.com/seohaem/springbatch/tree/master/springbatch-fastcampus
+  - https://github.com/seohaem/springbatch/tree/master/springbatch-memberProject
+  - https://github.com/seohaem/springbatch/tree/master/springbatch-orderamount
+  - https://github.com/seohaem/springbatch/tree/master/springbatch-app-service
 * [[5] 스프링 핵심 원리 - 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
-  - https://github.com/westssun/spring_core_basic
+  - https://github.com/seohaem/spring/tree/master/spring_core_basic
 * [[6] 스프링 핵심 원리 - 고급편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8)
-  - https://github.com/westssun/spring-advanced-log/
-  - https://github.com/westssun/springboot-aop
+  - https://github.com/seohaem/spring/tree/master/spring-advanced-log/
+  - https://github.com/seohaem/spring/tree/master/springboot-aop
 * [[7] 한번에 끝내는 Java/Spring 웹 개발 마스터 초격차 패키지 Online. 중 JPA](https://fastcampus.co.kr/dev_online_javaend)
-  - https://github.com/westssun/fastcampus-jpa-project
+  - https://github.com/seohaem/jpa/tree/master/fastcampus-jpa-project
 * [[8] 한번에 끝내는 Java/Spring 웹 개발 마스터 초격차 패키지 Online. 중 SpringSecurity](https://fastcampus.co.kr/dev_online_javaend)
-  - https://github.com/westssun/fastcampus-springsecurity
+  - https://github.com/seohaem/spring-security/tree/master/fastcampus-springsecurity
 * [[9] 스프링부트 시큐리티 & JWT 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0)
-  - https://github.com/westssun/security_login_basic_thymeleaf
-  - https://github.com/westssun/security-jwt-token-login-test
-  - https://github.com/westssun/security_oauth2_sns_login
+  - https://github.com/seohaem/spring-security/tree/master/security_login_basic_thymeleaf
+  - https://github.com/seohaem/spring-security/tree/master/security-jwt-token-login-test
+  - https://github.com/seohaem/spring-security/tree/master/security_oauth2_sns_login
 * [[10] 자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic)
-  - https://github.com/westssun/jpa_study
+  - https://github.com/seohaem/jpa/tree/master/jpa_study
 * [[11] 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1)
-  - https://github.com/westssun/springboot-jpa
+  - https://github.com/seohaem/jpa/tree/master/springboot-jpa
 * [[12] 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1)
-  - https://github.com/westssun/mvc_servlet
-  - https://github.com/westssun/springmvc
+  - https://github.com/seohaem/spring/tree/master/mvc_servlet
+  - https://github.com/seohaem/spring/tree/master/springmvc
 * [[13] 스프링 배치 - Spring Boot 기반으로 개발하는 Spring Batch](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98)
-  - https://github.com/westssun/spring-batch-start
-  - https://github.com/westssun/springbatch_test
+  - https://github.com/seohaem/springbatch/tree/master/spring-batch-start
+  - https://github.com/seohaem/springbatch/tree/master/springbatch_test
 * [[14] 스프링 시큐리티 - Spring Boot 기반으로 개발하는 Spring Security](https://www.inflearn.com/course/%EC%BD%94%EC%96%B4-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0)
-  - https://github.com/westssun/core-spring-security-1
-  - https://github.com/westssun/core-spring-security-2
-  - https://github.com/westssun/core-spring-security-3
+  - https://github.com/seohaem/spring-security/tree/master/core-spring-security-1
+  - https://github.com/seohaem/spring-security/tree/master/core-spring-security-2
+  - https://github.com/seohaem/spring-security/tree/master/core-spring-security-3
 * [[15] 스프링 DB 2편 - 데이터 접근 활용 기술(2)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-2)
-  - https://github.com/westssun/itemservice-db
-  - https://github.com/westssun/springtx
+  - https://github.com/seohaem/spring/tree/master/itemservice-db
+  - https://github.com/seohaem/spring/tree/master/springtx
 * [[16] 실전! Querydsl](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84)
-  - https://github.com/westssun/querydsl
+  - https://github.com/seohaem/jpa/tree/master/querydsl
 * [[17] 한달한권｜이펙티브 자바 강의](https://zero-base.co.kr/category_dev_camp/selective_effectivejava)
-  - https://github.com/westssun/effective_java
+  - https://github.com/seohaem/java/tree/master/effective_java
 * [[18] Kevin의 알기 쉬운 RxJava 1부](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-1)
-  - https://github.com/westssun/rxjava_lecture
+  - https://github.com/seohaem/webflux/tree/master/rxjava_lecture
 * [[19] Kevin의 알기 쉬운 RxJava 2부](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-2/dashboard)
-  - https://github.com/westssun/rxjava-lecture-2
+  - https://github.com/seohaem/webflux/tree/master/rxjava-lecture-2
 * [[20] 그림으로 쉽게 배우는 운영체제](https://www.inflearn.com/course/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C#curriculum)
 * [[21] 코딩으로 학습하는 리팩토링](https://www.inflearn.com/course/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81)
-  - https://github.com/westssun/java-refactoring
+  - https://github.com/seohaem/java/tree/master/java-refactoring
 * [[22] 토비의 봄 TV - 스프링 리액티브 프로그래밍](https://www.youtube.com/watch?v=8fenTR3KOJo&list=PLv-xDnFD-nnmof-yoZQN8Fs2kVljIuFyC&index=10)
-  - https://github.com/westssun/toby-reactive
+  - https://github.com/seohaem/webflux/tree/master/toby-reactive
 * [[23] 자바 개발자를 위한 코틀린 입문(Java to Kotlin Starter Guide)](https://www.inflearn.com/course/java-to-kotlin)
-  - https://github.com/westssun/kotlin-step1
+  - https://github.com/seohaem/kotlin/tree/master/kotlin-step1
 * [[24] 스프링5 웹플럭스와 테스트 전략](https://tv.kakao.com/channel/3150758/cliplink/391418995)
   - https://devfunny.tistory.com/887
 * [[25] 실전! 코틀린과 스프링 부트로 도서관리 애플리케이션 개발하기 (Java 프로젝트 리팩토링)](https://www.inflearn.com/course/java-to-kotlin-2#curriculum)
-  - https://github.com/seohaem/kotlin-step2
+  - https://github.com/seohaem/kotlin/tree/master/kotlin-step2
 * [[26] 재고시스템으로 알아보는 동시성이슈 해결방법](https://www.inflearn.com/course/%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%B4%EC%8A%88-%EC%9E%AC%EA%B3%A0%EC%8B%9C%EC%8A%A4%ED%85%9C)
-  - https://github.com/seohaem/concurrency-stock-project
+  - https://github.com/seohaem/parallel-programming/tree/master/concurrency-stock-project
   
 ## BOOK
 * [[1] Practical 모던 자바](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=251222649)
-  - https://github.com/westssun/practicalJava8
+  - https://github.com/seohaem/java/tree/master/practicalJava8
 * [[2] 모던 자바 인 액션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=200069290)
-  - https://github.com/westssun/moderninjava8
+  - https://github.com/seohaem/java/tree/master/moderninjava8
 * [[3] 자바 ORM 표준 JPA 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=62681446&start=slayer)
-  - https://github.com/westssun/jpa_book
+  - https://github.com/seohaem/jpa/tree/master/jpa_book
 * [[4] 아파치 카프카 애플리케이션 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=268985828)
-  - https://github.com/westssun/kafka-project
+  - https://github.com/seohaem/kafka/tree/master/kafka-project
 * [[5] 카프카, 데이터 플랫폼의 최강자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=142100738)
 * [[6] 이것이 코딩테스트다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247882118)
 * [[7] 이펙티브 자바](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410)
-  - https://github.com/westssun/effective_java
+  - https://github.com/seohaem/java/tree/master/effective_java
 * [[8] 도메인 주도 개발 시작하기 - DDD 핵심 개념 정리부터 구현까지](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=291420687)
-  - https://github.com/seohaem/DDD
+  - https://github.com/seohaem/ddd/tree/master/DDD
 * [[9] 스프링 부트 실전 활용 마스터](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=271824446&start=slayer)
-  - https://github.com/seohaem/webflux-project
+  - https://github.com/seohaem/webflux/tree/master/webflux-project
 
 ## Study
 
@@ -122,11 +122,11 @@
 * [[JAVA8 병렬프로그래밍] 원자적 변수 atomic](https://devfunny.tistory.com/812)
 * [ThreadLocal](https://devfunny.tistory.com/812)
 * [Volatile 변수](https://devfunny.tistory.com/841)
-* [JAVA Generic](https://github.com/westssun/toby-follow/tree/master/toby-generic)
-* [IntersectionType](https://github.com/westssun/toby-follow/tree/master/intersectionType)
-* [JAVA 멀티쓰레드: 들어가며](https://github.com/seohaem/concurrency_lecture1/tree/main/src/main/java/org/example/chap01_introduction/_step01_serial)
-* [JAVA 멀티쓰레드: 멀티쓰레드 예제](https://github.com/seohaem/concurrency_lecture1/tree/main/src/main/java/org/example/chap02_multiThread)
-* [JAVA 멀티쓰레드: 동시성 제어](https://github.com/seohaem/concurrency_lecture1/tree/main/src/main/java/org/example/chap03_concurrency)
+* [JAVA Generic](https://github.com/seohaem/java/tree/master/concurrency_lecture1/toby-generic)
+* [IntersectionType](https://github.com/seohaem/java/tree/master/concurrency_lecture1/intersectionType)
+* [JAVA 멀티쓰레드: 들어가며](https://github.com/seohaem/parallel-programming/tree/master/concurrency_lecture1/src/main/java/org/example/chap01_introduction/_step01_serial)
+* [JAVA 멀티쓰레드: 멀티쓰레드 예제](https://github.com/seohaem/parallel-programming/tree/master/concurrency_lecture1/src/main/java/org/example/chap02_multiThread)
+* [JAVA 멀티쓰레드: 동시성 제어](https://github.com/seohaem/parallel-programming/tree/master/concurrency_lecture1/src/main/java/org/example/chap03_concurrency)
 
 ### Spring
 * [스프링부트 공통 Exception 처리하기](https://devfunny.tistory.com/318)
@@ -137,7 +137,7 @@
 * [테스트 코드(@Test) 실행 후 데이터 rollback 수행 관리 (rollback 수행하기, rollback 수행하지않기)](https://devfunny.tistory.com/721)
 * [Lombok Annotation 의 Delombok 코드 보기 (어노테이션을 사용함으로써 적용될 코드)](https://devfunny.tistory.com/520)
 * [Maven + MockMvc 환경에서 Spring Rest Docs 설정하기](https://devfunny.tistory.com/868)
-* [[ddd] 아키텍처 구조 연습 (package struct)](https://github.com/westssun/ddd-practice-package-project)
+* [[ddd] 아키텍처 구조 연습 (package struct)](https://github.com/seohaem/ddd/tree/master/ddd-practice-package-project)
 * [Maven to Gradle Project 셋팅 변경](https://devfunny.tistory.com/892)
 * [Spring + Mybatis 활용 원리](https://devfunny.tistory.com/895)
 
@@ -183,29 +183,29 @@
 * [37. DB 조회한 데이터를 .josn 파일로 생성하는 배치 (JsonFileItemWriter)](https://devfunny.tistory.com/847)
 
 ### Java DesignPattern
-* [싱글톤 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_01_singleton)
-* [팩토리 메서드 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_02_factory_method)
-* [추상 팩토리 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_03_abstract_factory)
-* [빌더 패턴 ](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_04_builder)
-* [프로토타입 패턴 ](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_05_prototype)
-* [어댑터 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_06_adapter)
-* [브릿지 (Bridge) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_07_bridge)
-* [컴포짓 (Composite) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_08_composite)
-* [데코레이터 (Decorator) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_09_decorator)
-* [퍼사드 (Facade) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_10_facade)
-* [플라이웨이트 (Flyweight) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_11_flyweight)
-* [프록시 (Proxy) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_12_proxy)
-* [책임 연쇄 패턴(Chain-of-Responsibility) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_13_chain_of_responsibilities)
-* [커맨드 (Command) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_14_command)
-* [인터프리터 (Interpreter) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_15_interpreter)
-* [이터레이터 (Iterator) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_16_iterator)
-* [중재자 (Mediator) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_17_mediator)
-* [메멘토 (Memento) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_18_memento)
-* [옵저버 (Observer) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_19_observer)
-* [상태 (State) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_20_state)
-* [전략 (Strategy) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_21_strategy)
-* [템플릿 메소드 (Template method) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_22_template)
-* [방문자 (Visitor) 패턴](https://github.com/westssun/java_GoFdesignpattern_report/tree/master/src/main/java/com/designpattern/report/_23_visitor)
+* [싱글톤 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_01_singleton)
+* [팩토리 메서드 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_02_factory_method)
+* [추상 팩토리 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_03_abstract_factory)
+* [빌더 패턴 ](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_04_builder)
+* [프로토타입 패턴 ](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_05_prototype)
+* [어댑터 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_06_adapter)
+* [브릿지 (Bridge) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_07_bridge)
+* [컴포짓 (Composite) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_08_composite)
+* [데코레이터 (Decorator) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_09_decorator)
+* [퍼사드 (Facade) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_10_facade)
+* [플라이웨이트 (Flyweight) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_11_flyweight)
+* [프록시 (Proxy) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_12_proxy)
+* [책임 연쇄 패턴(Chain-of-Responsibility) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_13_chain_of_responsibilities)
+* [커맨드 (Command) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_14_command)
+* [인터프리터 (Interpreter) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_15_interpreter)
+* [이터레이터 (Iterator) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_16_iterator)
+* [중재자 (Mediator) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_17_mediator)
+* [메멘토 (Memento) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_18_memento)
+* [옵저버 (Observer) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_19_observer)
+* [상태 (State) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_20_state)
+* [전략 (Strategy) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_21_strategy)
+* [템플릿 메소드 (Template method) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_22_template)
+* [방문자 (Visitor) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_23_visitor)
 
 ### Effective Java
 * [아이템 15. 클래스와 멤버의 접근 권한을 최소화하라](https://devfunny.tistory.com/540)
@@ -349,28 +349,28 @@
 * [24. 지연 계산(lazy) 컬렉션 연산 - 시퀀스(sequence) 사용](https://devfunny.tistory.com/804)
 * [25. SAM 생성자](https://devfunny.tistory.com/819)
 * [26. 수신 객체 지정 람다 (with, apply)](https://devfunny.tistory.com/820)
-* [[kotlin-step1] 1강. 코틀린에서 변수를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_1_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%B3%80%EC%88%98%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 2강. 코틀린에서 null을 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_2_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_null%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 3강. 코틀린에서 Type을 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_3_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_Type%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 4강. 코틀린에서 연산자를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_4_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%97%B0%EC%82%B0%EC%9E%90%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 5강. 코틀린에서 제어문을 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_5_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%A0%9C%EC%96%B4%EB%AC%B8%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 6강. 코틀린에서 반복문을 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_6_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 7강. 코틀린에서 예외를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_7_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%98%88%EC%99%B8%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 8강. 코틀린에서 함수를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_8_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%ED%95%A8%EC%88%98%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 9강. 코틀린에서 클래스를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_9_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 10강. 코틀린에서 상속을 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_10_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%83%81%EC%86%8D%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 11강. 코틀린에서 접근제어를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_11_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 12강. 코틀린에서 object 키워드를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_12_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_object%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 13강. 코틀린에서 중첩클래스 키워드를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_13_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%A4%91%EC%B2%A9%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 14강. 코틀린에서 다양한 클래스를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_14_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%8B%A4%EC%96%91%ED%95%9C_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 15강. 코틀린에서 배열과 컬렉션을 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_15_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%B0%B0%EC%97%B4%EA%B3%BC_%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 16강. 코틀린에서 다양한 함수를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_16_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%8B%A4%EC%96%91%ED%95%9C_%ED%95%A8%EC%88%98%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 17강. 코틀린에서 람다를 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_17_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%9E%8C%EB%8B%A4%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 18강. 코틀린에서 컬렉션을 함수형으로 다루는 방법](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_18_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%84_%ED%95%A8%EC%88%98%EB%A1%9C_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
-* [[kotlin-step1] 19강. 코틀린의 이모저모](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_19_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98_%EC%9D%B4%EB%AA%A8%EC%A0%80%EB%AA%A8)
+* [[kotlin-step1] 1강. 코틀린에서 변수를 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_1_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%B3%80%EC%88%98%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 2강. 코틀린에서 null을 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_2_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_null%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 3강. 코틀린에서 Type을 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_3_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_Type%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 4강. 코틀린에서 연산자를 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_4_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%97%B0%EC%82%B0%EC%9E%90%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 5강. 코틀린에서 제어문을 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_5_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%A0%9C%EC%96%B4%EB%AC%B8%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 6강. 코틀린에서 반복문을 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_6_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 7강. 코틀린에서 예외를 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_7_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%98%88%EC%99%B8%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 8강. 코틀린에서 함수를 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_8_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%ED%95%A8%EC%88%98%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 9강. 코틀린에서 클래스를 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_9_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 10강. 코틀린에서 상속을 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_10_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%83%81%EC%86%8D%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 11강. 코틀린에서 접근제어를 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_11_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 12강. 코틀린에서 object 키워드를 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_12_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_object%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 13강. 코틀린에서 중첩클래스 키워드를 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_13_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%A4%91%EC%B2%A9%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 14강. 코틀린에서 다양한 클래스를 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_14_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%8B%A4%EC%96%91%ED%95%9C_%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 15강. 코틀린에서 배열과 컬렉션을 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_15_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%B0%B0%EC%97%B4%EA%B3%BC_%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%84_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 16강. 코틀린에서 다양한 함수를 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_16_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%8B%A4%EC%96%91%ED%95%9C_%ED%95%A8%EC%88%98%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 17강. 코틀린에서 람다를 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_17_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EB%9E%8C%EB%8B%A4%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 18강. 코틀린에서 컬렉션을 함수형으로 다루는 방법](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_18_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%97%90%EC%84%9C_%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%84_%ED%95%A8%EC%88%98%EB%A1%9C_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%B0%A9%EB%B2%95)
+* [[kotlin-step1] 19강. 코틀린의 이모저모](https://github.com/seohaem/kotlin/tree/master/kotlin-step1/src/main/kotlin/_19_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98_%EC%9D%B4%EB%AA%A8%EC%A0%80%EB%AA%A8)
 * [[kotlin-step1] 20강. 코틀린의 scope function](https://github.com/westssun/kotlin-step1/tree/master/src/main/kotlin/_20_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98_scope_function)
-* [[kotlin-step2] Java 프로젝트를 Kotlin 프로젝트로 리팩토링](https://github.com/seohaem/kotlin-step2/tree/master/kotlin-app)
-* [[kotlin-step2] kotlin 리팩토링 프로젝트에 총 4개의 기능 추가](https://github.com/seohaem/kotlin-step2/tree/master/kotlin-app_v2))
+* [[kotlin-step2] Java 프로젝트를 Kotlin 프로젝트로 리팩토링](https://github.com/seohaem/kotlin/tree/master/kotlin-step2/kotlin-app)
+* [[kotlin-step2] kotlin 리팩토링 프로젝트에 총 4개의 기능 추가](https://github.com/seohaem/kotlin/tree/master/kotlin-step2/kotlin-app_v2))
 * [[Kotlin 기초문법] 총정리](https://devfunny.tistory.com/889)
 
 ### Database
@@ -407,165 +407,165 @@
 * [그래프 이론 - 위상 정렬](https://devfunny.tistory.com/661)
 
 ### 유형별 JAVA 알고리즘 문제풀이
-* [기본) 알고리즘 구현](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_00_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B5%AC%ED%98%84)
-* [01) 그리디 구현](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_01_%EA%B7%B8%EB%A6%AC%EB%94%94_%EA%B5%AC%ED%98%84)
-* [02) Stack](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_02_Stack)
-* [03) Queue](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_03_Queue/Dont)
-* [04) DFS](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_04_DFS)
-* [05) BFS](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_05_BFS)
-* [06) BinarySearch](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_06_BinarySearch)
-* [07) Dynamic Programming; DP](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_07_Dynamic_DP)
-* [08) 정렬](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_08_Sort)
-* [09) 다익스트라](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_09_dijkstra)
-* [10) 투포인터](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_10_%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0)
-* [11) 백트래킹](https://github.com/westssun/java_algorithm/tree/master/src/com/algorithm/_11_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
+* [기본) 알고리즘 구현](https://github.com/seohaem/kotlin/tree/master/java_algorithm/src/com/algorithm/_00_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B5%AC%ED%98%84)
+* [01) 그리디 구현](https://github.com/seohaem/kotlin/tree/master/java_algorithm/src/com/algorithm/_01_%EA%B7%B8%EB%A6%AC%EB%94%94_%EA%B5%AC%ED%98%84)
+* [02) Stack](https://github.com/seohaem/kotlin/tree/master/java_algorithm/src/com/algorithm/_02_Stack)
+* [03) Queue](https://github.com/seohaem/kotlin/tree/master/java_algorithm/src/com/algorithm/_03_Queue/Dont)
+* [04) DFS](https://github.com/seohaem/kotlin/tree/master/java_algorithm/src/com/algorithm/_04_DFS)
+* [05) BFS](https://github.com/seohaem/kotlin/tree/master/java_algorithm/src/com/algorithm/_05_BFS)
+* [06) BinarySearch](https://github.com/seohaem/kotlin/tree/master/java_algorithm/src/com/algorithm/_06_BinarySearch)
+* [07) Dynamic Programming; DP](https://github.com/seohaem/kotlin/tree/master/java_algorithm/src/com/algorithm/_07_Dynamic_DP)
+* [08) 정렬](https://github.com/seohaem/kotlin/tree/master/java_algorithm/src/com/algorithm/_08_Sort)
+* [09) 다익스트라](https://github.com/seohaem/kotlin/tree/master/java_algorithm/src/com/algorithm/_09_dijkstra)
+* [10) 투포인터](https://github.com/seohaem/kotlin/tree/master/java_algorithm/src/com/algorithm/_10_%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0)
+* [11) 백트래킹](https://github.com/seohaem/kotlin/tree/master/java_algorithm/src/com/algorithm/_11_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
 
 ### 비동기 프로그래밍
-* [예제2_1_상태없는_서블릿](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_1_%EC%83%81%ED%83%9C%EC%97%86%EB%8A%94_%EC%84%9C%EB%B8%94%EB%A6%BF)
-* [예제2_2_동기화_구문없이_요청횟수_세기](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_2_%EB%8F%99%EA%B8%B0%ED%99%94_%EA%B5%AC%EB%AC%B8%EC%97%86%EC%9D%B4_%EC%9A%94%EC%B2%AD%ED%9A%9F%EC%88%98_%EC%84%B8%EA%B8%B0)
-* [예제2_3_늦은초기화_경쟁조건](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_3_%EB%8A%A6%EC%9D%80%EC%B4%88%EA%B8%B0%ED%99%94_%EA%B2%BD%EC%9F%81%EC%A1%B0%EA%B1%B4)
-* [예제2_4_AtomicLong_사용](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_4_AtomicLong_%EC%82%AC%EC%9A%A9)
-* [예제2_5_AtomicReference객체_2개](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_5_AtomicReference%EA%B0%9D%EC%B2%B4_2%EA%B0%9C)
-* [예제2_6_synchronized_성능저하](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_6_synchronized_%EC%84%B1%EB%8A%A5%EC%A0%80%ED%95%98)
-* [예제2_7_암묵적인락_재진입](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_7_%EC%95%94%EB%AC%B5%EC%A0%81%EC%9D%B8%EB%9D%BD_%EC%9E%AC%EC%A7%84%EC%9E%85)
-* [예제2_8_synchronized_블록_최소화](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_8_synchronized_%EB%B8%94%EB%A1%9D_%EC%B5%9C%EC%86%8C%ED%99%94)
-* [예제3_1_변수를_공유하지만_동기화하지않음](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_1_%EB%B3%80%EC%88%98%EB%A5%BC_%EA%B3%B5%EC%9C%A0%ED%95%98%EC%A7%80%EB%A7%8C_%EB%8F%99%EA%B8%B0%ED%99%94%ED%95%98%EC%A7%80%EC%95%8A%EC%9D%8C)
-* [예제3_2_동기화되지않은상태의_정수값](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_2_%EB%8F%99%EA%B8%B0%ED%99%94%EB%90%98%EC%A7%80%EC%95%8A%EC%9D%80%EC%83%81%ED%83%9C%EC%9D%98_%EC%A0%95%EC%88%98%EA%B0%92)
-* [예제3_3_동기화된상태의_정수값](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_3_%EB%8F%99%EA%B8%B0%ED%99%94%EB%90%9C%EC%83%81%ED%83%9C%EC%9D%98_%EC%A0%95%EC%88%98%EA%B0%92)
-* [예제3_6_변수_외부공개](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_6_%EB%B3%80%EC%88%98_%EC%99%B8%EB%B6%80%EA%B3%B5%EA%B0%9C)
-* [예제3_7_this클래스_참조를_외부에공개](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_7_this%ED%81%B4%EB%9E%98%EC%8A%A4_%EC%B0%B8%EC%A1%B0%EB%A5%BC_%EC%99%B8%EB%B6%80%EC%97%90%EA%B3%B5%EA%B0%9C)
-* [예제3_8_this변수_유출을막는다_팩토리메소드](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_8_this%EB%B3%80%EC%88%98_%EC%9C%A0%EC%B6%9C%EC%9D%84%EB%A7%89%EB%8A%94%EB%8B%A4_%ED%8C%A9%ED%86%A0%EB%A6%AC%EB%A9%94%EC%86%8C%EB%93%9C)
-* [예제3_9_로컬변수_스택한정](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_9_%EB%A1%9C%EC%BB%AC%EB%B3%80%EC%88%98_%EC%8A%A4%ED%83%9D%ED%95%9C%EC%A0%95)
-* [예제3_10_ThreadLocal](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_10_ThreadLocal)
-* [예제3_12_불변객체_volatile키워드](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_12_%EB%B6%88%EB%B3%80%EA%B0%9D%EC%B2%B4_volatile%ED%82%A4%EC%9B%8C%EB%93%9C)
-* [예제3_15_객체_올바르게_공개하지않으면_문제발생](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_15_%EA%B0%9D%EC%B2%B4_%EC%98%AC%EB%B0%94%EB%A5%B4%EA%B2%8C_%EA%B3%B5%EA%B0%9C%ED%95%98%EC%A7%80%EC%95%8A%EC%9C%BC%EB%A9%B4_%EB%AC%B8%EC%A0%9C%EB%B0%9C%EC%83%9D)
-* [예제4_1_자바_모니더패턴_스레드안정성확보](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_1_%EC%9E%90%EB%B0%94_%EB%AA%A8%EB%8B%88%EB%8D%94%ED%8C%A8%ED%84%B4_%EC%8A%A4%EB%A0%88%EB%93%9C%EC%95%88%EC%A0%95%EC%84%B1%ED%99%95%EB%B3%B4)
-* [예제4_2_한정기법_스레드안정성확보](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_2_%ED%95%9C%EC%A0%95%EA%B8%B0%EB%B2%95_%EC%8A%A4%EB%A0%88%EB%93%9C%EC%95%88%EC%A0%95%EC%84%B1%ED%99%95%EB%B3%B4)
-* [예제4_3_private_final변수_동기화](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_3_private_final%EB%B3%80%EC%88%98_%EB%8F%99%EA%B8%B0%ED%99%94)
-* [예제4_4_모니터기반_차량추적_프로그램](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_4_%EB%AA%A8%EB%8B%88%ED%84%B0%EA%B8%B0%EB%B0%98_%EC%B0%A8%EB%9F%89%EC%B6%94%EC%A0%81_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
-* [예제4_6_스레드안전_추적_프로그램](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_6_%EC%8A%A4%EB%A0%88%EB%93%9C%EC%95%88%EC%A0%84_%EC%B6%94%EC%A0%81_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
-* [예제4_9_두개이상의변수에게_스레드안정성_위임](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_9_%EB%91%90%EA%B0%9C%EC%9D%B4%EC%83%81%EC%9D%98%EB%B3%80%EC%88%98%EC%97%90%EA%B2%8C_%EC%8A%A4%EB%A0%88%EB%93%9C%EC%95%88%EC%A0%95%EC%84%B1_%EC%9C%84%EC%9E%84)
-* [예제4_10_위임의_문제점](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_10_%EC%9C%84%EC%9E%84%EC%9D%98_%EB%AC%B8%EC%A0%9C%EC%A0%90)
-* [예제4_11_값변경가능_스레드안전](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_11_%EA%B0%92%EB%B3%80%EA%B2%BD%EA%B0%80%EB%8A%A5_%EC%8A%A4%EB%A0%88%EB%93%9C%EC%95%88%EC%A0%84)
-* [예제4_12_내부상태_안전하게공개](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_12_%EB%82%B4%EB%B6%80%EC%83%81%ED%83%9C_%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C%EA%B3%B5%EA%B0%9C)
-* [예제4_13_기존의Vector_상속받고_메서드추가](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_13_%EA%B8%B0%EC%A1%B4%EC%9D%98Vector_%EC%83%81%EC%86%8D%EB%B0%9B%EA%B3%A0_%EB%A9%94%EC%84%9C%EB%93%9C%EC%B6%94%EA%B0%80)
-* [예제4_14_목록에없으면_추가기능잘못구현](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_14_%EB%AA%A9%EB%A1%9D%EC%97%90%EC%97%86%EC%9C%BC%EB%A9%B4_%EC%B6%94%EA%B0%80%EA%B8%B0%EB%8A%A5%EC%9E%98%EB%AA%BB%EA%B5%AC%ED%98%84)
-* [예제4_15_클라이언트측_락_사용하여_추가기능](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_15_%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%B8%A1_%EB%9D%BD_%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC_%EC%B6%94%EA%B0%80%EA%B8%B0%EB%8A%A5)
-* [예제4_16_재구성기법_추가기능](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_16_%EC%9E%AC%EA%B5%AC%EC%84%B1%EA%B8%B0%EB%B2%95_%EC%B6%94%EA%B0%80%EA%B8%B0%EB%8A%A5)
-* [예제5_1_올바르게_동작하지않을수있는상태의_메서드](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_1_%EC%98%AC%EB%B0%94%EB%A5%B4%EA%B2%8C_%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80%EC%95%8A%EC%9D%84%EC%88%98%EC%9E%88%EB%8A%94%EC%83%81%ED%83%9C%EC%9D%98_%EB%A9%94%EC%84%9C%EB%93%9C)
-* [예제5_2_클라이언트락_동기화](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_2_%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EB%9D%BD_%EB%8F%99%EA%B8%B0%ED%99%94)
-* [예제5_6_iterator_숨김_좋지않음](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_6_iterator_%EC%88%A8%EA%B9%80_%EC%A2%8B%EC%A7%80%EC%95%8A%EC%9D%8C)
-* [예제5_7_concurrentMap](https://github.com/westssun/java-concurrency/tree/master/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_7_concurrentMap)
+* [예제2_1_상태없는_서블릿](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_1_%EC%83%81%ED%83%9C%EC%97%86%EB%8A%94_%EC%84%9C%EB%B8%94%EB%A6%BF)
+* [예제2_2_동기화_구문없이_요청횟수_세기](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_2_%EB%8F%99%EA%B8%B0%ED%99%94_%EA%B5%AC%EB%AC%B8%EC%97%86%EC%9D%B4_%EC%9A%94%EC%B2%AD%ED%9A%9F%EC%88%98_%EC%84%B8%EA%B8%B0)
+* [예제2_3_늦은초기화_경쟁조건](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_3_%EB%8A%A6%EC%9D%80%EC%B4%88%EA%B8%B0%ED%99%94_%EA%B2%BD%EC%9F%81%EC%A1%B0%EA%B1%B4)
+* [예제2_4_AtomicLong_사용](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_4_AtomicLong_%EC%82%AC%EC%9A%A9)
+* [예제2_5_AtomicReference객체_2개](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_5_AtomicReference%EA%B0%9D%EC%B2%B4_2%EA%B0%9C)
+* [예제2_6_synchronized_성능저하](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_6_synchronized_%EC%84%B1%EB%8A%A5%EC%A0%80%ED%95%98)
+* [예제2_7_암묵적인락_재진입](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_7_%EC%95%94%EB%AC%B5%EC%A0%81%EC%9D%B8%EB%9D%BD_%EC%9E%AC%EC%A7%84%EC%9E%85)
+* [예제2_8_synchronized_블록_최소화](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter02/%EC%98%88%EC%A0%9C2_8_synchronized_%EB%B8%94%EB%A1%9D_%EC%B5%9C%EC%86%8C%ED%99%94)
+* [예제3_1_변수를_공유하지만_동기화하지않음](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_1_%EB%B3%80%EC%88%98%EB%A5%BC_%EA%B3%B5%EC%9C%A0%ED%95%98%EC%A7%80%EB%A7%8C_%EB%8F%99%EA%B8%B0%ED%99%94%ED%95%98%EC%A7%80%EC%95%8A%EC%9D%8C)
+* [예제3_2_동기화되지않은상태의_정수값](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_2_%EB%8F%99%EA%B8%B0%ED%99%94%EB%90%98%EC%A7%80%EC%95%8A%EC%9D%80%EC%83%81%ED%83%9C%EC%9D%98_%EC%A0%95%EC%88%98%EA%B0%92)
+* [예제3_3_동기화된상태의_정수값](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_3_%EB%8F%99%EA%B8%B0%ED%99%94%EB%90%9C%EC%83%81%ED%83%9C%EC%9D%98_%EC%A0%95%EC%88%98%EA%B0%92)
+* [예제3_6_변수_외부공개](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_6_%EB%B3%80%EC%88%98_%EC%99%B8%EB%B6%80%EA%B3%B5%EA%B0%9C)
+* [예제3_7_this클래스_참조를_외부에공개](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_7_this%ED%81%B4%EB%9E%98%EC%8A%A4_%EC%B0%B8%EC%A1%B0%EB%A5%BC_%EC%99%B8%EB%B6%80%EC%97%90%EA%B3%B5%EA%B0%9C)
+* [예제3_8_this변수_유출을막는다_팩토리메소드](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_8_this%EB%B3%80%EC%88%98_%EC%9C%A0%EC%B6%9C%EC%9D%84%EB%A7%89%EB%8A%94%EB%8B%A4_%ED%8C%A9%ED%86%A0%EB%A6%AC%EB%A9%94%EC%86%8C%EB%93%9C)
+* [예제3_9_로컬변수_스택한정](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_9_%EB%A1%9C%EC%BB%AC%EB%B3%80%EC%88%98_%EC%8A%A4%ED%83%9D%ED%95%9C%EC%A0%95)
+* [예제3_10_ThreadLocal](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_10_ThreadLocal)
+* [예제3_12_불변객체_volatile키워드](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_12_%EB%B6%88%EB%B3%80%EA%B0%9D%EC%B2%B4_volatile%ED%82%A4%EC%9B%8C%EB%93%9C)
+* [예제3_15_객체_올바르게_공개하지않으면_문제발생](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter03/%EC%98%88%EC%A0%9C3_15_%EA%B0%9D%EC%B2%B4_%EC%98%AC%EB%B0%94%EB%A5%B4%EA%B2%8C_%EA%B3%B5%EA%B0%9C%ED%95%98%EC%A7%80%EC%95%8A%EC%9C%BC%EB%A9%B4_%EB%AC%B8%EC%A0%9C%EB%B0%9C%EC%83%9D)
+* [예제4_1_자바_모니더패턴_스레드안정성확보](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_1_%EC%9E%90%EB%B0%94_%EB%AA%A8%EB%8B%88%EB%8D%94%ED%8C%A8%ED%84%B4_%EC%8A%A4%EB%A0%88%EB%93%9C%EC%95%88%EC%A0%95%EC%84%B1%ED%99%95%EB%B3%B4)
+* [예제4_2_한정기법_스레드안정성확보](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_2_%ED%95%9C%EC%A0%95%EA%B8%B0%EB%B2%95_%EC%8A%A4%EB%A0%88%EB%93%9C%EC%95%88%EC%A0%95%EC%84%B1%ED%99%95%EB%B3%B4)
+* [예제4_3_private_final변수_동기화](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_3_private_final%EB%B3%80%EC%88%98_%EB%8F%99%EA%B8%B0%ED%99%94)
+* [예제4_4_모니터기반_차량추적_프로그램](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_4_%EB%AA%A8%EB%8B%88%ED%84%B0%EA%B8%B0%EB%B0%98_%EC%B0%A8%EB%9F%89%EC%B6%94%EC%A0%81_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
+* [예제4_6_스레드안전_추적_프로그램](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_6_%EC%8A%A4%EB%A0%88%EB%93%9C%EC%95%88%EC%A0%84_%EC%B6%94%EC%A0%81_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
+* [예제4_9_두개이상의변수에게_스레드안정성_위임](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_9_%EB%91%90%EA%B0%9C%EC%9D%B4%EC%83%81%EC%9D%98%EB%B3%80%EC%88%98%EC%97%90%EA%B2%8C_%EC%8A%A4%EB%A0%88%EB%93%9C%EC%95%88%EC%A0%95%EC%84%B1_%EC%9C%84%EC%9E%84)
+* [예제4_10_위임의_문제점](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_10_%EC%9C%84%EC%9E%84%EC%9D%98_%EB%AC%B8%EC%A0%9C%EC%A0%90)
+* [예제4_11_값변경가능_스레드안전](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_11_%EA%B0%92%EB%B3%80%EA%B2%BD%EA%B0%80%EB%8A%A5_%EC%8A%A4%EB%A0%88%EB%93%9C%EC%95%88%EC%A0%84)
+* [예제4_12_내부상태_안전하게공개](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_12_%EB%82%B4%EB%B6%80%EC%83%81%ED%83%9C_%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C%EA%B3%B5%EA%B0%9C)
+* [예제4_13_기존의Vector_상속받고_메서드추가](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_13_%EA%B8%B0%EC%A1%B4%EC%9D%98Vector_%EC%83%81%EC%86%8D%EB%B0%9B%EA%B3%A0_%EB%A9%94%EC%84%9C%EB%93%9C%EC%B6%94%EA%B0%80)
+* [예제4_14_목록에없으면_추가기능잘못구현](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_14_%EB%AA%A9%EB%A1%9D%EC%97%90%EC%97%86%EC%9C%BC%EB%A9%B4_%EC%B6%94%EA%B0%80%EA%B8%B0%EB%8A%A5%EC%9E%98%EB%AA%BB%EA%B5%AC%ED%98%84)
+* [예제4_15_클라이언트측_락_사용하여_추가기능](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_15_%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%B8%A1_%EB%9D%BD_%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC_%EC%B6%94%EA%B0%80%EA%B8%B0%EB%8A%A5)
+* [예제4_16_재구성기법_추가기능](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter04/%EC%98%88%EC%A0%9C4_16_%EC%9E%AC%EA%B5%AC%EC%84%B1%EA%B8%B0%EB%B2%95_%EC%B6%94%EA%B0%80%EA%B8%B0%EB%8A%A5)
+* [예제5_1_올바르게_동작하지않을수있는상태의_메서드](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_1_%EC%98%AC%EB%B0%94%EB%A5%B4%EA%B2%8C_%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80%EC%95%8A%EC%9D%84%EC%88%98%EC%9E%88%EB%8A%94%EC%83%81%ED%83%9C%EC%9D%98_%EB%A9%94%EC%84%9C%EB%93%9C)
+* [예제5_2_클라이언트락_동기화](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_2_%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EB%9D%BD_%EB%8F%99%EA%B8%B0%ED%99%94)
+* [예제5_6_iterator_숨김_좋지않음](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_6_iterator_%EC%88%A8%EA%B9%80_%EC%A2%8B%EC%A7%80%EC%95%8A%EC%9D%8C)
+* [예제5_7_concurrentMap](https://github.com/westssun/parallel-programming/tree/master/java-concurrency/src/main/java/com/concurrency/chapter05/%EC%98%88%EC%A0%9C5_7_concurrentMap)
 * [SpringBoot 재고 감소 동시성 제어 - Redisson 사용 (+ AOP 적용)](https://devfunny.tistory.com/888)
 
 ### 리팩토링
 * [냄새 1. 이해하기 힘든 이름](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_%EB%83%84%EC%83%881_%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0_%ED%9E%98%EB%93%A0%EC%9D%B4%EB%A6%84.md)
-* [냄새 1. 리팩토링 1. 함수 선언 변경하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_01_change_method_declaration)
-* [냄새 1. 리팩토링 2. 변수 이름 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_02_rename_variable)
-* [냄새 1. 리팩토링 3. 필드 이름 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_03_rename_field)
+* [냄새 1. 리팩토링 1. 함수 선언 변경하기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_01_change_method_declaration)
+* [냄새 1. 리팩토링 2. 변수 이름 바꾸기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_02_rename_variable)
+* [냄새 1. 리팩토링 3. 필드 이름 바꾸기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_01_smell_mysterious_name/_03_rename_field)
 * [냄새 2. 중복 코드](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_02_duplicated_code/_%EB%83%84%EC%83%882_%EC%A4%91%EB%B3%B5%EC%BD%94%EB%93%9C.md)
-* [냄새 2. 리팩토링 4. 함수 추출하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_02_duplicated_code/_04_extract_function)
-* [냄새 2. 리팩토링 5. 코드 정리하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_02_duplicated_code/_05_slide_statements)
-* [냄새 2. 리팩토링 6. 메서드 올리기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_02_duplicated_code/_06_pull_up_method)
+* [냄새 2. 리팩토링 4. 함수 추출하기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_02_duplicated_code/_04_extract_function)
+* [냄새 2. 리팩토링 5. 코드 정리하기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_02_duplicated_code/_05_slide_statements)
+* [냄새 2. 리팩토링 6. 메서드 올리기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_02_duplicated_code/_06_pull_up_method)
 * [냄새 3. 긴 함수](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_03_long_function/_%EB%83%84%EC%83%883_%EA%B8%B4_%ED%95%A8%EC%88%98.md)
-* [냄새 3. 리팩토링 7. 임시 변수를 질의 함수로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_07_replace_temp_with_query)
-* [냄새 3. 리팩토링 8. 매개변수 객체 만들기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_08_introdce_parameter_object)
-* [냄새 3. 리팩토링 9. 객체 통째로 넘기기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_09_preserve_whole_object)
-* [냄새 3. 리팩토링 10. 함수를 명령으로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_10_replace_function_with_command)
-* [냄새 3. 리팩토링 11. 조건문 분해하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_11_decompose_conditional)
-* [냄새 3. 리팩토링 12. 반복문 쪼개기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_12_split_loop)
-* [냄새 3. 리팩토링 13. 조건문을 다형성으로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_03_long_function/_13_replace_conditional_with_polymorphism)
+* [냄새 3. 리팩토링 7. 임시 변수를 질의 함수로 바꾸기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_03_long_function/_07_replace_temp_with_query)
+* [냄새 3. 리팩토링 8. 매개변수 객체 만들기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_03_long_function/_08_introdce_parameter_object)
+* [냄새 3. 리팩토링 9. 객체 통째로 넘기기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_03_long_function/_09_preserve_whole_object)
+* [냄새 3. 리팩토링 10. 함수를 명령으로 바꾸기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_03_long_function/_10_replace_function_with_command)
+* [냄새 3. 리팩토링 11. 조건문 분해하기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_03_long_function/_11_decompose_conditional)
+* [냄새 3. 리팩토링 12. 반복문 쪼개기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_03_long_function/_12_split_loop)
+* [냄새 3. 리팩토링 13. 조건문을 다형성으로 바꾸기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_03_long_function/_13_replace_conditional_with_polymorphism)
 * [냄새 4. 긴 매개변수 목록](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_04_long_parameter_list/_%EB%83%84%EC%83%884_%EA%B8%B4_%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98_%EB%AA%A9%EB%A1%9D.md)
-* [냄새 4. 리팩토링 14. 매개변수를 질의 함수로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_04_long_parameter_list/_14_replace_parameter_with_query)
-* [냄새 4. 리팩토링 15. 플래그 인수 제거하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_04_long_parameter_list/_15_remove_flag_argument)
-* [냄새 4. 리팩토링 16. 여러 함수를 클래스로 묶기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_04_long_parameter_list/_16_combine_functinos_into_class)
+* [냄새 4. 리팩토링 14. 매개변수를 질의 함수로 바꾸기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_04_long_parameter_list/_14_replace_parameter_with_query)
+* [냄새 4. 리팩토링 15. 플래그 인수 제거하기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_04_long_parameter_list/_15_remove_flag_argument)
+* [냄새 4. 리팩토링 16. 여러 함수를 클래스로 묶기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_04_long_parameter_list/_16_combine_functinos_into_class)
 * [냄새 5. 전역 데이터](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_05_global_data/_%EB%83%84%EC%83%885_%EC%A0%84%EC%97%AD_%EB%8D%B0%EC%9D%B4%ED%84%B0.md)
-* [냄새 5. 리팩토링 17. 변수 캡슐화하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_05_global_data/_17_encapsulate_variable)
+* [냄새 5. 리팩토링 17. 변수 캡슐화하기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_05_global_data/_17_encapsulate_variable)
 * [냄새 6. 가변 데이터](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_06_mutable_data/_%EB%83%84%EC%83%886_%EA%B0%80%EB%B3%80%EB%8D%B0%EC%9D%B4%ED%84%B0.md)
-* [냄새 6. 리팩토링 18. 변수 쪼개기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_06_mutable_data/_18_split_variable)
-* [냄새 6. 리팩토링 19. 질의 함수와 변경 함수 분리하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_06_mutable_data/_19_separate_query_from_modifier)
-* [냄새 6. 리팩토링 20. 세터 제거하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_06_mutable_data/_20_remove_setting_method)
-* [냄새 6. 리팩토링 21. 파생 변수를 질의 함수로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_06_mutable_data/_21_replace_derived_variable_with_query)
-* [냄새 6. 리팩토링 22. 여러 함수를 변환 함수로 묶기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_06_mutable_data/_22_combine_functions_into_transform)
-* [냄새 6. 리팩토링 23. 참조를 값으로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_06_mutable_data/_23_change_reference_to_value)
+* [냄새 6. 리팩토링 18. 변수 쪼개기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_06_mutable_data/_18_split_variable)
+* [냄새 6. 리팩토링 19. 질의 함수와 변경 함수 분리하기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_06_mutable_data/_19_separate_query_from_modifier)
+* [냄새 6. 리팩토링 20. 세터 제거하기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_06_mutable_data/_20_remove_setting_method)
+* [냄새 6. 리팩토링 21. 파생 변수를 질의 함수로 바꾸기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_06_mutable_data/_21_replace_derived_variable_with_query)
+* [냄새 6. 리팩토링 22. 여러 함수를 변환 함수로 묶기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_06_mutable_data/_22_combine_functions_into_transform)
+* [냄새 6. 리팩토링 23. 참조를 값으로 바꾸기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_06_mutable_data/_23_change_reference_to_value)
 * [냄새 7. 냄새 7. 뒤엉킨 변경](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_07_divergent_change/_%EB%83%84%EC%83%887_%EB%92%A4%EC%97%89%ED%82%A8_%EB%B3%80%EA%B2%BD.md)
-* [냄새 7. 리팩토링 24. 단계 쪼개기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_07_divergent_change/_24_split_phase)
-* [냄새 7. 리팩토링 25. 함수 옮기기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_07_divergent_change/_25_move_function)
-* [냄새 7. 리팩토링 26. 클래스 추출하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_07_divergent_change/_26_extract_class)
+* [냄새 7. 리팩토링 24. 단계 쪼개기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_07_divergent_change/_24_split_phase)
+* [냄새 7. 리팩토링 25. 함수 옮기기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_07_divergent_change/_25_move_function)
+* [냄새 7. 리팩토링 26. 클래스 추출하기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_07_divergent_change/_26_extract_class)
 * [냄새 7. 냄새 8. 산탄총 수술](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_08_shotgun_surgery/_%EB%83%84%EC%83%888_%EC%82%B0%ED%83%84%EC%B4%9D_%EC%88%98%EC%88%A0.md)
-* [냄새 7. 리팩토링 27. 필드 옮기기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_08_shotgun_surgery/_27_move_field)
-* [냄새 7. 리팩토링 28. 함수 인라인](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_08_shotgun_surgery/_28_inline_function)
-* [냄새 7. 리팩토링 29. 클래스 인라인](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_08_shotgun_surgery/_29_inline_class)
-* [냄새 9. 기능 편애](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_09_feature_envy)
-* [냄새 10. 데이터 뭉치](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_10_data_clumps)
+* [냄새 7. 리팩토링 27. 필드 옮기기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_08_shotgun_surgery/_27_move_field)
+* [냄새 7. 리팩토링 28. 함수 인라인](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_08_shotgun_surgery/_28_inline_function)
+* [냄새 7. 리팩토링 29. 클래스 인라인](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_08_shotgun_surgery/_29_inline_class)
+* [냄새 9. 기능 편애](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_09_feature_envy)
+* [냄새 10. 데이터 뭉치](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_10_data_clumps)
 * [냄새 11. 기본형 집착](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_11_primitive_obsession/_%EB%83%84%EC%83%88_11_%EA%B8%B0%EB%B3%B8%ED%98%95_%EC%A7%91%EC%B0%A9.md)
-* [냄새 11. 리팩토링 30. 기본형을 객체로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_11_primitive_obsession/_30_repliace_primitive_with_object)
-* [냄새 11. 리팩토링 31. 타입 코드를 서브클래스로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses)
-* [냄새 11. 리팩토링 32. 조건부 로직을 다형성으로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_11_primitive_obsession/_32_replace_conditional_with_polymorphism)
-* [냄새 12. 반복되는 switch 문](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_12_repeated_swtiches)
-* [냄새 13. 반복문](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_13_loop)
-* [냄새 13. 리팩토링 33. 반복문을 파이프라인으로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_13_loop/_33_replace_loop_with_pipeline)
+* [냄새 11. 리팩토링 30. 기본형을 객체로 바꾸기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_11_primitive_obsession/_30_repliace_primitive_with_object)
+* [냄새 11. 리팩토링 31. 타입 코드를 서브클래스로 바꾸기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_11_primitive_obsession/_31_replace_type_code_with_subclasses)
+* [냄새 11. 리팩토링 32. 조건부 로직을 다형성으로 바꾸기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_11_primitive_obsession/_32_replace_conditional_with_polymorphism)
+* [냄새 12. 반복되는 switch 문](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_12_repeated_swtiches)
+* [냄새 13. 반복문](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_13_loop)
+* [냄새 13. 리팩토링 33. 반복문을 파이프라인으로 바꾸기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_13_loop/_33_replace_loop_with_pipeline)
 * [냄새 14. 성의없는 요소](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_14_lazy_elements/_%EB%83%84%EC%83%8814_%EC%84%B1%EC%9D%98%EC%97%86%EB%8A%94_%EC%9A%94%EC%86%8C.md)
-* [냄새 14. 리팩토링 34. 계층 합치기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_14_lazy_elements/_34_collapse_hierarchy)
+* [냄새 14. 리팩토링 34. 계층 합치기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_14_lazy_elements/_34_collapse_hierarchy)
 * [냄새 15. 추측성 일반화](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_15_speculative_generality/_%EB%83%84%EC%83%8815_%EC%B6%94%EC%B8%A1%EC%84%B1_%EC%9D%BC%EB%B0%98%ED%99%94.md)
-* [냄새 15. 리팩토링 35. 죽은 코드 제거하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_15_speculative_generality/_35_remove_dead_code)
+* [냄새 15. 리팩토링 35. 죽은 코드 제거하기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_15_speculative_generality/_35_remove_dead_code)
 * [냄새 16. 임시 필드](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_16_temporary_field/_%EB%83%84%EC%83%8816_%EC%9E%84%EC%8B%9C%ED%95%84%EB%93%9C.md)
-* [냄새 16. 리팩토링 36. 특이 케이스 추가하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case)
+* [냄새 16. 리팩토링 36. 특이 케이스 추가하기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_16_temporary_field/_36_introduce_special_case)
 * [냄새 17. 메시지 체인](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_17_message_chain/_%EB%83%84%EC%83%8817_%EB%A9%94%EC%8B%9C%EC%A7%80_%EC%B2%B4%EC%9D%B8.md)
-* [냄새 17. 리팩토링 37. 위임 숨기기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_17_message_chain/_37_hide_delegate)
+* [냄새 17. 리팩토링 37. 위임 숨기기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_17_message_chain/_37_hide_delegate)
 * [냄새 18. 중재자](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_18_middle_man/_%EB%83%84%EC%83%8818_%EC%A4%91%EC%9E%AC%EC%9E%90.md)
-* [냄새 18. 리팩토링 38. 중재자 제거하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_18_middle_man/_38_remove_middle_man)
-* [냄새 18. 리팩토링 39. 슈퍼클래스를 위임으로 바꾸기	](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_18_middle_man/_39_replace_superclass_with_delegate)
-* [냄새 18. 리팩토링 40. 서브클래스를 위임으로 바꾸기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with_delegate)
-* [냄새 19. 내부자 거래](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_19_insider_trading)
+* [냄새 18. 리팩토링 38. 중재자 제거하기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_18_middle_man/_38_remove_middle_man)
+* [냄새 18. 리팩토링 39. 슈퍼클래스를 위임으로 바꾸기	](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_18_middle_man/_39_replace_superclass_with_delegate)
+* [냄새 18. 리팩토링 40. 서브클래스를 위임으로 바꾸기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_18_middle_man/_40_replace_subclass_with_delegate)
+* [냄새 19. 내부자 거래](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_19_insider_trading)
 * [냄새 20. 거대한 클래스](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_20_large_class/_%EB%83%84%EC%83%8820_%EA%B1%B0%EB%8C%80%ED%95%9C_%ED%81%B4%EB%9E%98%EC%8A%A4.md)
-* [냄새 20. 리팩토링 41. 슈퍼클래스 추출하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_20_large_class/_41_extract_superclass)
-* [냄새 21. 서로 다른 인터페이스의 대안 클래스들](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces)
+* [냄새 20. 리팩토링 41. 슈퍼클래스 추출하기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_20_large_class/_41_extract_superclass)
+* [냄새 21. 서로 다른 인터페이스의 대안 클래스들](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_21_alternative_classes_with_different_interfaces)
 * [냄새 22. 데이터 클래스](https://github.com/westssun/java-refactoring/blob/master/src/main/java/me/whiteship/refactoring/_22_data_class/_%EB%83%84%EC%83%8822_%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%81%B4%EB%9E%98%EC%8A%A4.md)
-* [냄새 22. 리팩토링 42. 레코드 캡슐화하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_22_data_class/_42_encapsulate_record)
-* [냄새 23. 상속 포기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_23_refused_bequest)
-* [냄새 24. 주석](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_24_comments)
-* [냄새 24. 리팩토링 43. 어서션 추가하기](https://github.com/westssun/java-refactoring/tree/master/src/main/java/me/whiteship/refactoring/_24_comments/_43_introduce_assertion)
+* [냄새 22. 리팩토링 42. 레코드 캡슐화하기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_22_data_class/_42_encapsulate_record)
+* [냄새 23. 상속 포기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_23_refused_bequest)
+* [냄새 24. 주석](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_24_comments)
+* [냄새 24. 리팩토링 43. 어서션 추가하기](https://github.com/seohaem/java/tree/master/java-refactoring/src/main/java/me/whiteship/refactoring/_24_comments/_43_introduce_assertion)
 
 ### RxJava-Reactive Programming
-* [[RxJava] 리액티브(Reactive) 프로그래밍이란](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter01)
-* [[RxJava] 마블 다이어그램 소개](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter01)
-* [[RxJava] 프로젝트 환경 구축 및 Hello RxJava](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter02)
-* [[RxJava] 리액티브 스트림즈(Reactive Streams)란?](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter03/chapter0301)
-* [[RxJava] Observable과 Flowable에 대한 이해](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter03/chapter0302)
-* [[RxJava] Single, Maybe, Completable](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter03/chapter0303)
-* [[RxJava] 함수형 인터페이스와 람다의 개념 파악](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter04/chapter0401)
-* [[RxJava] 메서드 레퍼런스?](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter04/chapter0402)
-* [[RxJava] 리액티브 연산자 개요 및 생성 연산](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0501)
-* [[RxJava] 데이터 필터링 연산자](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0502)
-* [[RxJava] 변환 연산자 (1)](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0503)
-* [[RxJava] 변환 연산자 (2)](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0504)
-* [[RxJava] [RxJava] 결합 연산자](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0505)
-* [[RxJava] 에러 처리 연산자 + retry 연산자 추가 설명](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0506)
-* [[RxJava] 유틸리티 연산자](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0507)
-* [[RxJava] 조건과 불린 연산자](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0508)
-* [[RxJava] 데이터 집계 연산자](https://github.com/westssun/rxjava_lecture/tree/master/src/main/java/com/itvillage/chapter05/chapter0509)
+* [[RxJava] 리액티브(Reactive) 프로그래밍이란](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter01)
+* [[RxJava] 마블 다이어그램 소개](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter01)
+* [[RxJava] 프로젝트 환경 구축 및 Hello RxJava](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter02)
+* [[RxJava] 리액티브 스트림즈(Reactive Streams)란?](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter03/chapter0301)
+* [[RxJava] Observable과 Flowable에 대한 이해](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter03/chapter0302)
+* [[RxJava] Single, Maybe, Completable](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter03/chapter0303)
+* [[RxJava] 함수형 인터페이스와 람다의 개념 파악](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter04/chapter0401)
+* [[RxJava] 메서드 레퍼런스?](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter04/chapter0402)
+* [[RxJava] 리액티브 연산자 개요 및 생성 연산](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter05/chapter0501)
+* [[RxJava] 데이터 필터링 연산자](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter05/chapter0502)
+* [[RxJava] 변환 연산자 (1)](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter05/chapter0503)
+* [[RxJava] 변환 연산자 (2)](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter05/chapter0504)
+* [[RxJava] [RxJava] 결합 연산자](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter05/chapter0505)
+* [[RxJava] 에러 처리 연산자 + retry 연산자 추가 설명](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter05/chapter0506)
+* [[RxJava] 유틸리티 연산자](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter05/chapter0507)
+* [[RxJava] 조건과 불린 연산자](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter05/chapter0508)
+* [[RxJava] 데이터 집계 연산자](https://github.com/seohaem/webflux/tree/master/rxjava_lecture/src/main/java/com/itvillage/chapter05/chapter0509)
 * [[RxJava] PublishSubject](https://github.com/westssun/rxjava-lecture-2/blob/master/rxjava-episode2/src/main/java/com/itvillage/section00/PublishSubjectExample.java)
 * [[RxJava] AsyncSubject](https://github.com/westssun/rxjava-lecture-2/blob/master/rxjava-episode2/src/main/java/com/itvillage/section00/AsyncSubjectExample.java)
 * [[RxJava] BehaviorSubject](https://github.com/westssun/rxjava-lecture-2/blob/master/rxjava-episode2/src/main/java/com/itvillage/section00/BehaviorSubjectExample.java)
 * [[RxJava] ReplaySubject](https://github.com/westssun/rxjava-lecture-2/blob/master/rxjava-episode2/src/main/java/com/itvillage/section00/ReplaySubjectExample01.java)
-* [[RxJava] 스케줄러 종류](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2/src/main/java/com/itvillage/section01)
-* [[RxJava] doOnXXX 메서드 정리](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2/src/main/java/com/itvillage/section02)
-* [[RxJava] blockingFirst, blockingLast, blockingSingle, blockingGet, blockingIterable, blockingForEach, blockingSubscribe](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2/src/test/java/com/itvillage/section03)
-* [[RxJava] assertXXXXX 함수를 이용한 테스트 검증(1)assertEmpty(), assertValue(), assertValues(), assertNoValues(), assertResult(), assertError(), assertComplete(), assertNotComplete()](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2/src/test/java/com/itvillage/section04/_1_assert)
-* [[RxJava] awaitXXXXX 함수를 이용한 테스트 방법 await(), awaitDone(), awaitCount() 그리고 isXXXX 함수를 이용한 테스트 isTerminated()](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2/src/test/java/com/itvillage/section04/_2_await)
-* [[RxJava] 실습 프로젝트 - 서버](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2-practice)
-* [[RxJava] 실습 프로젝트 - 클라이언트](https://github.com/westssun/rxjava-lecture-2/tree/master/rxjava-episode2-practice-client)
-* [toby-reactive (1) Pub/Sub](https://github.com/westssun/toby-reactive/tree/master/src/main/java/com/reactive/step01)
-* [toby-reactive (2) Publisher/Subscriber 구현 코드](https://github.com/westssun/toby-reactive/tree/master/src/main/java/com/reactive/step02)
-* [toby-reactive (3) Reactive Streams/Flux](https://github.com/westssun/toby-reactive/tree/master/src/main/java/com/reactive/step03)
-* [toby-reactive (4) 스프링 비동기(Future)](https://github.com/westssun/toby-reactive/tree/master/src/main/java/com/reactive/step04)
-* [toby-reactive (5) 비동기 RestTemplate과 비동기 MVC/Serlvet](https://github.com/westssun/toby-reactive/tree/master/src/main/java/com/reactive/step05)
-* [toby-reactive (6) AsyncRestTemplate의 콜백 헬과 중복 작업 문제](https://github.com/westssun/toby-reactive/tree/master/src/main/java/com/reactive/step06)
-* [toby-reactive (7) CompletableFuture](https://github.com/westssun/toby-reactive/tree/master/src/main/java/com/reactive/step07)
-* [toby-reactive (8) WebFlux](https://github.com/westssun/toby-reactive/tree/master/src/main/java/com/reactive/step08)
-* [toby-reactive (9) Mono의 동작방식과 block](https://github.com/westssun/toby-reactive/tree/master/src/main/java/com/reactive/step09)
-* [toby-reactive (10) Flux의 특징과 활용방법](https://github.com/westssun/toby-reactive/tree/master/src/main/java/com/reactive/step10)
+* [[RxJava] 스케줄러 종류](https://github.com/seohaem/webflux/tree/master/rxjava-lecture-2/rxjava-episode2/src/main/java/com/itvillage/section01)
+* [[RxJava] doOnXXX 메서드 정리](https://github.com/seohaem/webflux/tree/master/rxjava-lecture-2/rxjava-episode2/src/main/java/com/itvillage/section02)
+* [[RxJava] blockingFirst, blockingLast, blockingSingle, blockingGet, blockingIterable, blockingForEach, blockingSubscribe](https://github.com/seohaem/webflux/tree/master/rxjava-lecture-2/rxjava-episode2/src/test/java/com/itvillage/section03)
+* [[RxJava] assertXXXXX 함수를 이용한 테스트 검증(1)assertEmpty(), assertValue(), assertValues(), assertNoValues(), assertResult(), assertError(), assertComplete(), assertNotComplete()](https://github.com/seohaem/webflux/tree/master/rxjava-lecture-2/rxjava-episode2/src/test/java/com/itvillage/section04/_1_assert)
+* [[RxJava] awaitXXXXX 함수를 이용한 테스트 방법 await(), awaitDone(), awaitCount() 그리고 isXXXX 함수를 이용한 테스트 isTerminated()](https://github.com/seohaem/webflux/tree/master/rxjava-lecture-2/rxjava-episode2/src/test/java/com/itvillage/section04/_2_await)
+* [[RxJava] 실습 프로젝트 - 서버](https://github.com/seohaem/webflux/tree/master/rxjava-lecture-2/rxjava-episode2-practice)
+* [[RxJava] 실습 프로젝트 - 클라이언트](https://github.com/seohaem/webflux/tree/master/rxjava-lecture-2/rxjava-episode2-practice-client)
+* [toby-reactive (1) Pub/Sub](https://github.com/seohaem/webflux/tree/master/toby-reactive/src/main/java/com/reactive/step01)
+* [toby-reactive (2) Publisher/Subscriber 구현 코드](https://github.com/seohaem/webflux/tree/master/toby-reactive/src/main/java/com/reactive/step02)
+* [toby-reactive (3) Reactive Streams/Flux](https://github.com/seohaem/webflux/tree/master/toby-reactive/src/main/java/com/reactive/step03)
+* [toby-reactive (4) 스프링 비동기(Future)](https://github.com/seohaem/webflux/tree/master/toby-reactive/src/main/java/com/reactive/step04)
+* [toby-reactive (5) 비동기 RestTemplate과 비동기 MVC/Serlvet](https://github.com/seohaem/webflux/tree/master/toby-reactive/src/main/java/com/reactive/step05)
+* [toby-reactive (6) AsyncRestTemplate의 콜백 헬과 중복 작업 문제](https://github.com/seohaem/webflux/tree/master/toby-reactive/src/main/java/com/reactive/step06)
+* [toby-reactive (7) CompletableFuture](https://github.com/seohaem/webflux/tree/master/toby-reactive/src/main/java/com/reactive/step07)
+* [toby-reactive (8) WebFlux](https://github.com/seohaem/webflux/tree/master/toby-reactive/src/main/java/com/reactive/step08)
+* [toby-reactive (9) Mono의 동작방식과 block](https://github.com/seohaem/webflux/tree/master/toby-reactive/src/main/java/com/reactive/step09)
+* [toby-reactive (10) Flux의 특징과 활용방법](https://github.com/seohaem/webflux/tree/master/toby-reactive/src/main/java/com/reactive/step10)
 * [[Spring Reactive Programming] 1. Reactive Streams (Publisher, Subscriber, Pub/Sub)](https://devfunny.tistory.com/876)
 * [[Spring Reactive Programming] 2. Reactive Streams - Operators (sum, reduce, Generic으로 구현)](https://devfunny.tistory.com/877)
 * [[Spring Reactive Programming] 3. Reactive Streams - Publisher, Subscriber 별도 스레드로 수행시키기](https://devfunny.tistory.com/878)
@@ -577,7 +577,7 @@
 * [CompletableFuture 예제](https://github.com/seohaem/async-project/blob/main/future/src/main/java/com/example/future/interfaces/CompletableFutureController.java)
 
 ### Domain Driven Design
-* [[ddd] 아키텍처 구조 연습 (package struct)](https://github.com/westssun/ddd-practice-package-project)
+* [[ddd] 아키텍처 구조 연습 (package struct)](https://github.com/seohaem/ddd/tree/master/ddd-practice-package-project)
 * [[Domain Driven Design] 1. 도메인이란?](https://devfunny.tistory.com/869)
 * [[Domain Driven Design] 2. 도메인 모델](https://devfunny.tistory.com/870)
 * [[Domain Driven Design] 3. 엔티티와 밸류](https://devfunny.tistory.com/871)
