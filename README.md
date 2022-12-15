@@ -185,7 +185,9 @@
 ### Java DesignPattern
 * [싱글톤 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_01_singleton)
 * [팩토리 메서드 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_02_factory_method)
+* [복습(포스팅) - 팩토리 메서드 패턴](https://devfunny.tistory.com/897)
 * [추상 팩토리 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_03_abstract_factory)
+* [복습(포스팅) - 추상 팩토리 패턴](https://devfunny.tistory.com/898)
 * [빌더 패턴 ](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_04_builder)
 * [프로토타입 패턴 ](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_05_prototype)
 * [어댑터 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_06_adapter)
@@ -204,7 +206,10 @@
 * [옵저버 (Observer) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_19_observer)
 * [상태 (State) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_20_state)
 * [전략 (Strategy) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_21_strategy)
+* [복습(포스팅) - 전략 패턴](https://devfunny.tistory.com/901)
 * [템플릿 메소드 (Template method) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_22_template)
+* [복습(포스팅) - 템플릿 메소드 패턴](https://devfunny.tistory.com/899)
+* [복습(포스팅) - 템플릿 콜백 패턴](https://devfunny.tistory.com/900)
 * [방문자 (Visitor) 패턴](https://github.com/seohaem/java/tree/master/java_GoFdesignpattern_report/src/main/java/com/designpattern/report/_23_visitor)
 
 ### Effective Java
